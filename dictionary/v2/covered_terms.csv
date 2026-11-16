@@ -1,0 +1,2237 @@
+removed_term,covered_by,categories,source_ids
+ho,H,sexual_slang_or_context,editorial|v1
+SH,H,self_harm,editorial_v2
+お尻,尻,anatomy|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+両刀,刀,hate_discrimination|profanity_mixed,editorial_v2|ldnoobw_ja
+両性,性,profanity_mixed,ldnoobw_ja
+乳交,乳,profanity_mixed,ldnoobw_zh
+乳头,乳,profanity_mixed,ldnoobw_zh
+乳房,乳,anatomy|profanity_mixed,editorial|v1|ldnoobw_zh
+乳汁,乳,sexual_slang_or_context,editorial|v1
+乳輪,乳,anatomy,space_ja|editorial|v1
+乳頭,乳,anatomy,editorial|v1
+乳首,乳,anatomy|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+亡霊,霊,religion,editorial_v2
+交姦,姦,sexual_slang_or_context,editorial|v1
+仏教,仏,religion,editorial_v2
+佛教,佛,religion,editorial_v2
+催淫,淫,sexual_expression,editorial|v1
+傷口,口,violence_crime,editorial_v2
+傻屄,屄,insult,editorial_v2
+傻逼,逼,insult|profanity_mixed,editorial_v2|ldnoobw_zh
+全裸,裸,nudity_clothing,editorial|v1
+军妓,妓,profanity_mixed,ldnoobw_zh
+出血,血,violence_crime,editorial_v2
+初H,H,sexual_slang_or_context,editorial|v1
+刺傷,刺,violence_crime,editorial_v2
+刺殺,刺,violence_crime,editorial_v2
+半裸,裸,nudity_clothing,editorial|v1
+卖淫,淫,profanity_mixed,ldnoobw_zh
+卵子,卵,profanity_mixed,ldnoobw_zh
+原爆,爆,politics_general,editorial_v2
+去死,死,insult,editorial_v2
+变性,性,hate_discrimination,editorial_v2
+口交,口,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_zh
+口淫,口,sexual_act,editorial|v1
+口肯,口,profanity_mixed,ldnoobw_zh
+呪術,呪,religion,editorial_v2
+和姦,姦,sexual_slang_or_context,space_ja|v1
+奶子,奶,profanity_mixed,ldnoobw_zh
+奸你,奸,profanity_mixed,ldnoobw_zh
+妈逼,逼,insult|profanity_mixed,editorial_v2|ldnoobw_zh
+妓女,妓,profanity_mixed,ldnoobw_zh
+妓院,妓,profanity_mixed,ldnoobw_zh
+媽逼,逼,insult,editorial_v2
+尸体,尸,violence_crime,editorial_v2
+屍體,屍,violence_crime,editorial_v2
+巨乳,乳,anatomy|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja|ldnoobw_zh
+巨尻,尻,anatomy,space_ja|editorial|v1
+希死,死,self_harm,editorial_v2
+強姦,姦,sexual_violence,space_ja|editorial|v1
+強盗,盗,violence_crime,editorial_v2
+强奸,奸,profanity_mixed,ldnoobw_zh
+弾圧,弾,politics_china,editorial_v2
+微乳,乳,anatomy,space_ja|editorial|v1
+心霊,霊,religion,editorial_v2
+性交,性,sexual_act|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja|ldnoobw_zh
+性器,性,anatomy|profanity_mixed,editorial|v1|ldnoobw_zh
+性慾,性,sexual_slang_or_context,space_ja|v1
+性欲,性,sexual_expression,space_ja|editorial|v1
+性爱,性,profanity_mixed,ldnoobw_zh
+性的,性,sexual_expression,editorial|v1
+怪乳,乳,sexual_slang_or_context,space_ja|v1
+惨殺,殺,violence_crime,editorial_v2
+想死,死,self_harm,editorial_v2
+我艹,艹,insult,editorial_v2
+我草,草,insult,editorial_v2
+手淫,淫,sexual_expression,space_ja|editorial|v1
+找死,死,insult,editorial_v2
+抑鬱,鬱,self_harm,editorial_v2
+招妓,妓,profanity_mixed,ldnoobw_zh
+拳銃,銃,violence_crime,editorial_v2
+搾乳,乳,sexual_slang_or_context,space_ja|editorial|v1
+撲殺,殺,violence_crime,editorial_v2
+操逼,逼,profanity_mixed,ldnoobw_zh
+死ね,死,insult,editorial_v2
+死体,死,violence_crime,editorial_v2
+死後,死,religion,editorial_v2
+死骸,死,violence_crime,editorial_v2
+殉死,死,religion,editorial_v2
+残虐,虐,violence_crime,editorial_v2
+殺す,殺,insult,editorial_v2
+母乳,乳,sexual_slang_or_context,space_ja|editorial|v1
+毒殺,殺,violence_crime,editorial_v2
+水爆,爆,politics_general,editorial_v2
+流血,血,violence_crime,editorial_v2
+涜神,神,religion,editorial_v2
+淫ら,淫,sexual_expression,editorial|v1
+淫乱,淫,sexual_expression|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja|ldnoobw_zh
+淫妇,淫,profanity_mixed,ldnoobw_zh
+淫情,淫,sexual_expression,space_ja|v1
+淫慾,淫,sexual_expression,space_ja|v1
+淫棍,淫,profanity_mixed,ldnoobw_zh
+淫欲,淫,sexual_expression,space_ja|v1
+淫水,淫,profanity_mixed,ldnoobw_zh
+淫液,淫,sexual_expression,editorial|v1
+淫猥,淫,sexual_expression,editorial|v1
+淫秽,淫,profanity_mixed,ldnoobw_zh
+淫荡,淫,profanity_mixed,ldnoobw_zh
+淫西,淫,profanity_mixed,ldnoobw_zh
+淫語,淫,sexual_expression,space_ja|v1
+淫靡,淫,sexual_expression,editorial|v1
+溺死,死,violence_crime,editorial_v2
+烂逼,逼,profanity_mixed,ldnoobw_zh
+烟草,草,drugs,editorial_v2
+焼死,死,violence_crime,editorial_v2
+焼殺,殺,violence_crime,editorial_v2
+煙草,草,drugs,editorial_v2
+爆乳,乳,anatomy,space_ja|editorial|v1
+獣姦,姦,sexual_slang_or_context|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+盗撮,盗,sexual_violence,space_ja|editorial|v1
+神社,神,religion,editorial_v2
+神道,神,religion,editorial_v2
+神韵,神,politics_china,editorial_v2
+神韻,神,politics_china,editorial_v2
+窃盗,盗,violence_crime,editorial_v2
+糞便,糞,profanity_mixed,ldnoobw_ja
+絞殺,殺,violence_crime,editorial_v2
+美乳,乳,anatomy,space_ja|editorial|v1
+美尻,尻,anatomy,editorial|v1
+脅迫,脅,insult,editorial_v2
+脱糞,糞,sexual_slang_or_context,space_ja|editorial|v1
+腐爛,爛,violence_crime,editorial_v2
+膣口,口,anatomy,editorial|v1
+膣鏡,膣,anatomy,space_ja|v1
+自杀,杀,self_harm,editorial_v2
+自死,死,self_harm,editorial_v2
+自殺,殺,self_harm,editorial_v2
+虐げ,虐,violence_crime,editorial_v2
+虐め,虐,insult,editorial_v2
+虐待,虐,violence_crime,editorial_v2
+虐殺,殺,politics_general|violence_crime,editorial_v2
+蟲姦,姦,sexual_slang_or_context,space_ja|v1
+裸体,裸,nudity_clothing,editorial|v1
+裸婦,裸,nudity_clothing,editorial|v1
+裸男,裸,nudity_clothing,editorial|v1
+裸身,裸,nudity_clothing,editorial|v1
+複乳,乳,sexual_slang_or_context,space_ja|v1
+變性,性,hate_discrimination,editorial_v2
+貧乳,乳,anatomy,space_ja|editorial|v1
+賤人,賤,insult,editorial_v2
+賤民,賤,hate_discrimination,editorial_v2
+賤貨,賤,insult,editorial_v2
+超乳,乳,sexual_slang_or_context,space_ja|editorial|v1
+輪姦,姦,sexual_violence|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+轢死,死,violence_crime,editorial_v2
+轢殺,殺,violence_crime,editorial_v2
+轮奸,奸,profanity_mixed,ldnoobw_zh
+逼样,逼,profanity_mixed,ldnoobw_zh
+酒精,酒,drugs,editorial_v2
+降霊,霊,religion,editorial_v2
+青姦,姦,sexual_slang_or_context,space_ja|v1
+靠北,靠,profanity_mixed|insult,ldnoobw_zh|space_v2
+靠夭,靠,insult,space_v2
+靠母,靠,profanity_mixed|insult,ldnoobw_zh|space_v2
+靠爸,靠,profanity_mixed,ldnoobw_zh
+靠背,靠,profanity_mixed,ldnoobw_zh
+靠腰,靠,profanity_mixed,ldnoobw_zh
+靠邀,靠,insult,space_v2
+食糞,糞,sexual_slang_or_context,space_ja|editorial|v1
+飲酒,酒,drugs,editorial_v2
+骚逼,逼,profanity_mixed,ldnoobw_zh
+鮮血,血,violence_crime,editorial_v2
+鸡奸,奸,profanity_mixed,ldnoobw_zh
+BLM,BL,politics_general,editorial_v2
+GBL,BL,drugs,editorial_v2
+GHB,H,drugs,editorial_v2
+god,OD,religion,editorial_v2
+HHC,H,drugs,editorial_v2
+hoe,H,sexual_slang_or_context,editorial|v1
+jav,AV,sexual_slang_or_context,editorial|v1
+sod,OD,insult,editorial_v2
+THC,H,drugs,editorial_v2
+TSF,TS,sexual_slang_or_context,editorial|v1
+xxx,xx,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+おしり,おし,profanity_mixed,ldnoobw_ja
+おなべ,おな,hate_discrimination,editorial_v2
+ぶち殺,殺,insult,editorial_v2
+ぶっ殺,殺,insult,editorial_v2
+ぶん殴,殴,insult,editorial_v2
+エロい,エロ,sexual_expression,editorial|v1
+エロゲ,エロ,adult_media,editorial|v1
+エロス,エロ,sexual_expression,editorial|v1
+エロ本,エロ,adult_media,editorial|v1
+オシリ,オシ,profanity_mixed,ldnoobw_ja
+オナベ,オナ,hate_discrimination,editorial_v2
+オナホ,オナ,fetish_bondage,editorial|v1
+セフレ,セフ,adult_commerce,editorial|v1
+ニグロ,グロ,hate_discrimination,editorial_v2
+モブ姦,姦,sexual_slang_or_context,space_ja|v1
+中国語,中国,politics_china,editorial_v2
+中国軍,中国,politics_china,editorial_v2
+中国領,中国,politics_china,editorial_v2
+人外娘,人外,sexual_slang_or_context,space_ja|editorial|v1
+他奶奶,奶,profanity_mixed,ldnoobw_zh
+他妈地,他妈,profanity_mixed,ldnoobw_zh
+他妈的,他妈,profanity_mixed,ldnoobw_zh
+你妈的,你妈,profanity_mixed,ldnoobw_zh
+你娘咧,你娘,profanity_mixed,ldnoobw_zh
+你老味,老味,profanity_mixed,ldnoobw_zh
+你老母,老母,profanity_mixed,ldnoobw_zh
+全能神,神,religion,editorial_v2
+共産党,共産,politics_china,editorial_v2
+処女膜,処女,sexual_slang_or_context,space_ja|v1
+刚瘪三,瘪三,profanity_mixed,ldnoobw_zh
+勃起薬,勃起,sexual_slang_or_context,editorial|v1
+北朝鮮,朝鮮,politics_general,editorial_v2
+反政府,政府,politics_general,editorial_v2
+同性恋,性,hate_discrimination,editorial_v2
+同性愛,性,sexual_expression|hate_discrimination,editorial|v1|editorial_v2
+同性戀,性,hate_discrimination,editorial_v2
+塞你娘,你娘,profanity_mixed,ldnoobw_zh
+売春婦,売春,profanity_mixed,ldnoobw_ja
+外陰部,外陰,anatomy,editorial|v1
+大卵子,卵,profanity_mixed,ldnoobw_zh
+大卵泡,卵,profanity_mixed,ldnoobw_zh
+大陰唇,陰唇,anatomy|profanity_mixed,editorial|v1|ldnoobw_ja
+大鸡巴,鸡巴,profanity_mixed,ldnoobw_zh
+女性器,性,anatomy,editorial|v1
+奴隷制,奴隷,violence_crime,editorial_v2
+奴隷商,奴隷,violence_crime,editorial_v2
+她妈的,妈的,profanity_mixed,ldnoobw_zh
+妈妈的,妈的,profanity_mixed,ldnoobw_zh
+妈的B,妈的,profanity_mixed,ldnoobw_zh
+妳妈的,妈的,profanity_mixed,ldnoobw_zh
+妳娘的,娘的,profanity_mixed,ldnoobw_zh
+子宮口,口,anatomy,editorial|v1
+它妈的,妈的,profanity_mixed,ldnoobw_zh
+安乐死,死,self_harm,editorial_v2
+安楽死,死,self_harm,editorial_v2
+安樂死,死,self_harm,editorial_v2
+尊厳死,死,self_harm,editorial_v2
+小乳头,乳,profanity_mixed,ldnoobw_zh
+小卵子,卵,profanity_mixed,ldnoobw_zh
+小卵泡,卵,profanity_mixed,ldnoobw_zh
+小瘪三,瘪三,profanity_mixed,ldnoobw_zh
+小陰唇,陰唇,anatomy,editorial|v1
+小骚比,骚比,profanity_mixed,ldnoobw_zh
+小骚货,骚货,profanity_mixed,ldnoobw_zh
+小鸡巴,鸡巴,profanity_mixed,ldnoobw_zh
+小鸡鸡,鸡鸡,profanity_mixed,ldnoobw_zh
+尻コキ,尻,anatomy,space_ja|editorial|v1
+尻チラ,尻,anatomy,editorial|v1
+干你妈,你妈,profanity_mixed,ldnoobw_zh
+干你娘,你娘,profanity_mixed,ldnoobw_zh
+干你良,干你,profanity_mixed,ldnoobw_zh
+干死你,死,profanity_mixed,ldnoobw_zh
+幹你娘,幹,insult,space_v2
+幻覚剤,幻覚,drugs,editorial_v2
+強姦犯,姦,profanity_mixed,ldnoobw_ja
+强奸你,奸,profanity_mixed,ldnoobw_zh
+性交渉,性,sexual_act,editorial|v1
+性奴隷,性,fetish_bondage,space_ja|editorial|v1
+性感帯,性,sexual_slang_or_context,editorial|v1
+性接触,性,sexual_slang_or_context,editorial|v1
+性描写,性,sexual_slang_or_context,editorial|v1
+性无能,性,profanity_mixed,ldnoobw_zh
+性犯罪,性,sexual_slang_or_context,editorial|v1
+性経験,性,sexual_slang_or_context,editorial|v1
+性自認,性,hate_discrimination,editorial_v2
+性行為,性,sexual_act,editorial|v1
+性衝動,性,sexual_slang_or_context,space_ja|v1
+性転換,性,sexual_slang_or_context|hate_discrimination,space_ja|v1|editorial_v2
+手榴弾,弾,violence_crime,editorial_v2
+抑うつ,うつ,self_harm,editorial_v2
+拘束具,拘束,fetish_bondage,space_ja|editorial|v1
+插死你,死,profanity_mixed,ldnoobw_zh
+操你妈,你妈,insult|profanity_mixed,editorial_v2|ldnoobw_zh
+操你娘,你娘,profanity_mixed,ldnoobw_zh
+操你媽,你媽,insult,editorial_v2
+操妳妈,操妳,profanity_mixed,ldnoobw_zh
+操妳娘,操妳,profanity_mixed,ldnoobw_zh
+支那猪,支那,hate_discrimination,editorial_v2
+支那豬,支那,hate_discrimination,editorial_v2
+日他娘,他娘,profanity_mixed,ldnoobw_zh
+日你妈,你妈,profanity_mixed,ldnoobw_zh
+暴力団,暴力,violence_crime,editorial_v2
+核兵器,兵器,politics_general,editorial_v2
+機械姦,姦,sexual_slang_or_context,space_ja|editorial|v1
+死基佬,死,hate_discrimination,editorial_v2
+殺し方,殺,profanity_mixed,ldnoobw_ja
+民主化,民主,politics_china,editorial_v2
+灨你娘,你娘,profanity_mixed,ldnoobw_zh
+無神論,神,religion,editorial_v2
+犯罪者,犯罪,violence_crime,editorial_v2
+玉なめ,なめ,profanity_mixed,ldnoobw_ja
+王八蛋,王八,profanity_mixed,ldnoobw_zh
+男性器,性,anatomy,editorial|v1
+異性愛,性,hate_discrimination,editorial_v2
+異種姦,姦,sexual_slang_or_context,space_ja|editorial|v1
+発情期,発情,sexual_slang_or_context,editorial|v1
+着エロ,エロ,adult_media,space_ja|editorial|v1
+睡眠姦,姦,sexual_violence,space_ja|v1
+神仙水,神,drugs,editorial_v2
+神經病,神,insult,editorial_v2
+神经病,神,insult,editorial_v2
+精力剤,精力,sexual_slang_or_context,editorial|v1
+精神病,神,hate_discrimination,editorial_v2
+縄縛り,縛り,sexual_slang_or_context,editorial|v1
+習政権,政権,politics_china,editorial_v2
+老瘪三,瘪三,profanity_mixed,ldnoobw_zh
+老骚比,骚比,profanity_mixed,ldnoobw_zh
+老骚货,骚货,profanity_mixed,ldnoobw_zh
+胸チラ,胸,anatomy,editorial|v1
+草你妈,草,insult,editorial_v2
+草你媽,草,insult,editorial_v2
+草泥馬,草,insult,editorial_v2
+草泥马,草,insult,editorial_v2
+被狗幹,幹,insult,space_v2
+覗き見,覗き,sexual_slang_or_context,editorial|v1
+詐欺師,詐欺,insult,editorial_v2
+贼你妈,你妈,profanity_mixed,ldnoobw_zh
+避妊具,避妊,sexual_slang_or_context,editorial|v1
+避妊薬,避妊,sexual_slang_or_context,editorial|v1
+陰嚢袋,陰嚢,anatomy,editorial|v1
+露出狂,露出,nudity_clothing,editorial|v1
+鞭打ち,鞭,fetish_bondage,editorial|v1
+風俗嬢,風俗,adult_commerce,space_ja|editorial|v1
+風俗店,風俗,adult_commerce,editorial|v1
+首吊り,首吊,self_harm,editorial_v2
+驶你娘,你娘,profanity_mixed,ldnoobw_zh
+AV女優,AV,adult_media,space_ja|editorial|v1
+AV男優,AV,adult_media,editorial|v1
+BDSM,SM,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+eroi,ero,sexual_slang_or_context,editorial|v1
+eros,ero,sexual_slang_or_context,editorial|v1
+f'ed,ED,sexual_slang_or_context,surge_en|v1
+fcka,fck,sexual_act,surge_en|v1
+fckk,fck,sexual_act,surge_en|v1
+fcks,fck,sexual_act,surge_en|v1
+fked,ED,sexual_slang_or_context,surge_en|v1
+fucc,fuc,sexual_slang_or_context,surge_en|v1
+fuck,fuc,sexual_act|insult|profanity_mixed,surge_en|space_en|v1|editorial_v2|ldnoobw_en
+fucs,fuc,sexual_slang_or_context,surge_en|v1
+fucx,fuc,sexual_slang_or_context,surge_en|v1
+fukk,fuk,sexual_act,surge_en|v1
+fuks,fuk,sexual_act,surge_en|v1
+fuku,fuk,sexual_act,surge_en|v1
+hash,H,drugs,editorial_v2
+heeb,H,hate_discrimination,editorial_v2
+hell,H,insult|religion,editorial_v2
+hemp,H,drugs,editorial_v2
+HHCH,H,drugs,editorial_v2
+high,H,drugs,editorial_v2
+homo,H,hate_discrimination,editorial_v2
+hump,H,sexual_act,editorial|v1
+Hアニメ,H,sexual_slang_or_context,editorial|v1
+meth,H,drugs,editorial_v2
+M字開脚,開脚,sexual_slang_or_context,editorial|v1
+nobs,BS,sexual_slang_or_context,surge_en|v1
+phuc,H,sexual_slang_or_context,surge_en|v1
+phuk,H,sexual_act,surge_en|v1
+phuq,H,sexual_slang_or_context,surge_en|v1
+pthc,H,profanity_mixed,ldnoobw_en
+R18G,R18,adult_media,editorial|v1
+scum,cum,insult,editorial_v2|space_v2
+sexo,sex,profanity_mixed,ldnoobw_en
+sext,sex,sexual_act,editorial|v1
+sexy,sex,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+sh!t,H,insult,space_v2
+sh1t,H,insult,space_v2
+shag,H,sexual_slang_or_context,space_en|v1
+shit,H,insult|profanity_mixed,editorial_v2|ldnoobw_en|space_v2
+shiz,H,insult,space_v2
+shot,H,violence_crime,editorial_v2
+shít,H,insult,space_v2
+Sikh,H,religion,editorial_v2
+smut,SM,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+sm女王,SM,profanity_mixed,ldnoobw_ja
+THCH,H,drugs,editorial_v2
+tits,TS,anatomy|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+ugly,GL,insult,editorial_v2
+WCNM,CNM,insult,editorial_v2
+weed,ED,drugs,editorial_v2
+おしっこ,おし,sexual_slang_or_context|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+おなにー,おな,sexual_slang_or_context,editorial|v1
+おまんこ,まんこ,anatomy,space_ja|v1
+くたばれ,くたば,insult,editorial_v2
+のぞき見,のぞき,sexual_slang_or_context,editorial|v1
+イメクラ,メクラ,sexual_slang_or_context,editorial|v1
+エロイプ,エロ,sexual_expression,editorial|v1
+エロゲー,エロ,adult_media,editorial|v1
+エロ動画,エロ,adult_media,editorial|v1
+エロ同人,エロ,sexual_expression,editorial|v1
+エロ漫画,エロ,adult_media,editorial|v1
+エロ画像,エロ,adult_media,editorial|v1
+エロ配信,エロ,sexual_expression,editorial|v1
+オナクラ,オナ,sexual_slang_or_context,editorial|v1
+オナサポ,オナ,sexual_slang_or_context,space_ja|v1
+オナニー,オナ,sexual_act|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+カスハラ,カス,insult,editorial_v2
+ギャル妻,ギャル,sexual_slang_or_context,editorial|v1
+クソ野郎,クソ,insult,editorial_v2
+ノーブラ,ブラ,sexual_slang_or_context,editorial|v1
+バイブル,バイブ,religion,editorial_v2
+パチンコ,チンコ,violence_crime,editorial_v2
+ブサイク,イク,insult,editorial_v2
+ブラチラ,ブラ,nudity_clothing,space_ja|editorial|v1
+ボケナス,ボケ,insult,editorial_v2
+モザイク,イク,sexual_slang_or_context,editorial|v1
+レズキス,レズ,sexual_slang_or_context,space_ja|v1
+ロリコン,ロリ,sexual_slang_or_context,editorial|v1
+ロリータ,ロリ,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_ja
+不正選挙,不正,politics_general,editorial_v2
+両性具有,性,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_ja
+中国人民,中国,politics_china,editorial_v2
+中国大使,中国,politics_china,editorial_v2
+中国当局,中国,politics_china,editorial_v2
+中国政府,中国,politics_china,editorial_v2
+乳波臀浪,乳,profanity_mixed,ldnoobw_zh
+乳首チラ,乳,anatomy,editorial|v1
+乳首勃起,乳,anatomy,editorial|v1
+乳首舐め,乳,anatomy,editorial|v1
+乳首責め,乳,anatomy,editorial|v1
+乳首透け,乳,anatomy,editorial|v1
+乳首露出,乳,anatomy,editorial|v1
+亀甲縛り,縛り,sexual_slang_or_context,editorial|v1
+人種差別,人種,hate_discrimination,editorial_v2
+他奶奶的,奶,profanity_mixed,ldnoobw_zh
+他奶娘的,奶,profanity_mixed,ldnoobw_zh
+仮性包茎,性,sexual_slang_or_context,editorial|v1
+你个傻比,傻比,profanity_mixed,ldnoobw_zh
+你他马的,他马的,profanity_mixed,ldnoobw_zh
+你奶奶的,奶,profanity_mixed,ldnoobw_zh
+你她马的,她马的,profanity_mixed,ldnoobw_zh
+你娘卡好,你娘,profanity_mixed,ldnoobw_zh
+你它妈的,妈的,profanity_mixed,ldnoobw_zh
+先走り液,先走り,sexual_slang_or_context,editorial|v1
+光复香港,香港,politics_china,editorial_v2
+光復香港,香港,politics_china,editorial_v2
+八九六四,八九,politics_china,editorial_v2
+六四事件,六四,politics_china,editorial_v2
+共産主義,共産,politics_china,editorial_v2
+再教育營,再教育,politics_china,editorial_v2
+再教育营,再教育,politics_china,editorial_v2
+処女喪失,処女,sexual_slang_or_context,editorial|v1
+勃起する,勃起,profanity_mixed,ldnoobw_ja
+勃起不全,勃起,sexual_slang_or_context,editorial|v1
+包茎矯正,包茎,sexual_slang_or_context,space_ja|v1
+北方領土,領土,politics_general,editorial_v2
+南シナ海,シナ,politics_china,editorial_v2
+口内射精,口,sexual_act,space_ja|editorial|v1
+台湾独立,台湾,politics_china,editorial_v2
+同人エロ,エロ,adult_media,editorial|v1
+同性エロ,性,sexual_expression,editorial|v1
+塞你老母,老母,profanity_mixed,ldnoobw_zh
+天滅中共,中共,politics_china,editorial_v2
+天灭中共,中共,politics_china,editorial_v2
+奶奶的熊,奶,profanity_mixed,ldnoobw_zh
+妳她妈的,妈的,profanity_mixed,ldnoobw_zh
+妳老母的,老母,profanity_mixed,ldnoobw_zh
+婊子养的,婊子,profanity_mixed,ldnoobw_zh
+官能作品,官能,adult_media,editorial|v1
+官能小説,官能,adult_media,editorial|v1
+官能描写,官能,adult_media,editorial|v1
+官能漫画,官能,adult_media,editorial|v1
+射精管理,射精,sexual_act,editorial|v1
+小熊維尼,維尼,politics_china,editorial_v2
+小熊维尼,维尼,politics_china,editorial_v2
+尻フェチ,尻,anatomy,space_ja|editorial|v1
+尿道責め,尿道,sexual_slang_or_context,editorial|v1
+干你老母,干你,profanity_mixed,ldnoobw_zh
+干妳老母,老母,profanity_mixed,ldnoobw_zh
+干死CS,死,profanity_mixed,ldnoobw_zh
+干死GM,死,profanity_mixed,ldnoobw_zh
+干死客服,死,profanity_mixed,ldnoobw_zh
+弱者男性,性,insult,editorial_v2
+強制性交,性,sexual_act,editorial|v1
+性同一性,性,hate_discrimination,editorial_v2
+性欲処理,性,sexual_expression,editorial|v1
+性欲解消,性,sexual_expression,editorial|v1
+性的接触,性,sexual_expression,editorial|v1
+性的描写,性,sexual_expression,editorial|v1
+性的搾取,性,sexual_violence,editorial|v1
+性的暴行,性,sexual_violence,editorial|v1
+性的虐待,性,sexual_violence,editorial|v1
+性的表現,性,sexual_expression,editorial|v1
+成人向け,成人,adult_media,editorial|v1
+成人指定,成人,sexual_slang_or_context,editorial|v1
+成人映画,成人,sexual_slang_or_context,editorial|v1
+成人漫画,成人,sexual_slang_or_context,editorial|v1
+摂食障害,障害,self_harm,editorial_v2
+操你全家,操你,profanity_mixed,ldnoobw_zh
+操你奶奶,奶,profanity_mixed,ldnoobw_zh
+操你祖宗,操你,profanity_mixed,ldnoobw_zh
+操你老妈,操你,profanity_mixed,ldnoobw_zh
+操你老母,操你,profanity_mixed,ldnoobw_zh
+操妳全家,操妳,profanity_mixed,ldnoobw_zh
+操妳祖宗,操妳,profanity_mixed,ldnoobw_zh
+日你老娘,日你,profanity_mixed,ldnoobw_zh
+日你老母,日你,profanity_mixed,ldnoobw_zh
+时代革命,革命,politics_china,editorial_v2
+時代革命,革命,politics_china,editorial_v2
+有色人種,人種,hate_discrimination,editorial_v2
+死にたい,死,self_harm,editorial_v2
+殺人事件,殺,profanity_mixed,ldnoobw_ja
+殺人方法,殺,profanity_mixed,ldnoobw_ja
+殺害予告,殺,violence_crime,editorial_v2
+毛フェチ,フェチ,fetish_bondage,editorial|v1
+消えたい,えた,self_harm,editorial_v2
+潮吹き女,潮吹き,profanity_mixed,ldnoobw_ja
+無理心中,心中,self_harm,editorial_v2
+爆破予告,爆,violence_crime,editorial_v2
+犯罪予告,犯罪,violence_crime,editorial_v2
+男性受け,性,sexual_slang_or_context,space_ja|v1
+異物挿入,挿入,sexual_slang_or_context,space_ja|v1
+発達障害,発達,hate_discrimination,editorial_v2
+白紙運動,白紙,politics_china,editorial_v2
+盗み撮り,盗,sexual_slang_or_context,editorial|v1
+真性包茎,性,sexual_slang_or_context,editorial|v1
+知的障害,障害,hate_discrimination,editorial_v2
+童貞卒業,童貞,sexual_slang_or_context,editorial|v1
+精力増強,精力,sexual_slang_or_context,editorial|v1
+精神異常,神,hate_discrimination,editorial_v2
+精神障害,神,hate_discrimination,editorial_v2
+統一教会,教会,politics_general|religion,editorial_v2
+肛門性交,性,anatomy,editorial|v1
+肛門愛撫,愛撫,anatomy,editorial|v1
+胸フェチ,胸,anatomy,editorial|v1
+脚フェチ,フェチ,fetish_bondage,space_ja|editorial|v1
+腋フェチ,フェチ,fetish_bondage,editorial|v1
+膣内射精,膣,anatomy,editorial|v1
+膣外射精,膣,anatomy,editorial|v1
+臓器摘出,臓器,politics_china,editorial_v2
+臓器狩り,臓器,politics_china,editorial_v2
+自己愛性,性,profanity_mixed,ldnoobw_ja
+自慰行為,自慰,sexual_act,editorial|v1
+臭不要脸,不要脸,insult,editorial_v2
+血まみれ,血,violence_crime,editorial_v2
+裏垢女子,裏垢,sexual_slang_or_context,editorial|v1
+裸の女性,性,profanity_mixed,ldnoobw_ja
+触手責め,触手,sexual_slang_or_context,editorial|v1
+言論統制,言論,politics_china,editorial_v2
+赛你老母,老母,profanity_mixed,ldnoobw_zh
+足フェチ,フェチ,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_ja
+近親相姦,姦,sexual_slang_or_context|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+逆レイプ,レイプ,sexual_violence,space_ja|v1
+透けブラ,ブラ,sexual_slang_or_context,editorial|v1
+透け乳首,乳,anatomy,editorial|v1
+連続絶頂,絶頂,sexual_act,space_ja|v1
+闇バイト,闇,violence_crime,editorial_v2
+陰部露出,陰部,anatomy,editorial|v1
+雨傘運動,雨傘,politics_china,editorial_v2
+香港加油,香港,politics_china,editorial_v2
+驶你老母,老母,profanity_mixed,ldnoobw_zh
+高丽棒子,棒子,hate_discrimination,editorial_v2
+高麗棒子,棒子,hate_discrimination,editorial_v2
+黄色人種,人種,hate_discrimination,editorial_v2
+4r5ed,ED,sexual_slang_or_context,surge_en|v1
+4r5es,4r5e,sexual_slang_or_context,surge_en|v1
+Allah,H,religion,editorial_v2
+asses,ass,sexual_slang_or_context,surge_en|v1
+assfk,ass,sexual_slang_or_context,surge_en|v1
+bewbs,BS,sexual_slang_or_context,surge_en|v1
+Bible,BL,religion,editorial_v2
+bitch,H,insult|profanity_mixed,editorial_v2|ldnoobw_en
+Black,BL,hate_discrimination,editorial_v2
+blade,BL,violence_crime,editorial_v2
+bleed,BL,violence_crime,editorial_v2
+blind,BL,hate_discrimination,editorial_v2
+blood,BL,violence_crime,editorial_v2
+blunt,BL,drugs,editorial_v2
+boobs,BS,anatomy|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+butts,TS,sexual_slang_or_context,editorial|v1
+c*nty,c*nt,sexual_slang_or_context,surge_en|v1
+c0cks,c0ck,sexual_slang_or_context,surge_en|v1
+cawks,cawk,sexual_slang_or_context,surge_en|v1
+China,H,politics_china,editorial_v2
+chink,H,hate_discrimination,editorial_v2
+cocks,cock,anatomy|profanity_mixed,surge_en|space_en|v1|ldnoobw_en
+cooch,H,sexual_slang_or_context,editorial|v1
+coons,coon,profanity_mixed,ldnoobw_en
+cunts,TS,anatomy,surge_en|space_en|v1
+cunty,cunt,anatomy,surge_en|v1
+cuntz,cunt,anatomy,surge_en|v1
+d!cks,d!ck,sexual_slang_or_context,surge_en|v1
+d1cks,d1ck,sexual_slang_or_context,surge_en|v1
+d1ckz,d1ck,sexual_slang_or_context,surge_en|v1
+dafuq,fuq,sexual_slang_or_context,surge_en|v1
+death,H,violence_crime,editorial_v2
+dicks,dick,anatomy,surge_en|space_en|v1
+dickz,dick,anatomy,surge_en|v1
+dlcks,dlck,sexual_slang_or_context,surge_en|v1
+domme,dom,fetish_bondage,editorial|v1
+ecchi,H,adult_media|profanity_mixed,editorial|v1|ldnoobw_en
+eroge,ero,adult_media,editorial|v1
+faith,H,religion,editorial_v2
+fcked,ED,sexual_act,surge_en|v1
+fcker,fck,sexual_act,surge_en|v1
+fckin,fck,sexual_act,surge_en|v1
+fcuks,fcuk,sexual_act,surge_en|v1
+felch,H,profanity_mixed,ldnoobw_en
+flesh,H,violence_crime,editorial_v2
+fucca,fuc,sexual_slang_or_context,surge_en|v1
+fuccs,fuc,sexual_slang_or_context,surge_en|v1
+fucka,fuc,sexual_act,surge_en|v1
+fuckk,fuc,sexual_act,surge_en|v1
+fucks,fuc,sexual_act,surge_en|v1
+fuk1n,fuk,sexual_act,surge_en|v1
+fukcs,fuk,sexual_act,surge_en|v1
+fuker,fuk,sexual_act,surge_en|v1
+fukin,fuk,sexual_act,surge_en|v1
+fukka,fuk,sexual_act,surge_en|v1
+fux0r,fux,sexual_slang_or_context,surge_en|v1
+fvcka,fvck,sexual_act,surge_en|v1
+glans,GL,anatomy,editorial|v1
+Hamas,H,politics_general,editorial_v2
+Hindu,H,hate_discrimination|religion,editorial_v2
+honky,H,hate_discrimination,editorial_v2
+horny,H,sexual_expression|profanity_mixed,editorial|v1|ldnoobw_en
+jihad,H,religion,editorial_v2
+kinky,kink,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+knobd,knob,sexual_slang_or_context,surge_en|v1
+knobe,knob,sexual_slang_or_context,surge_en|v1
+m0fos,m0fo,sexual_slang_or_context,surge_en|v1
+mf'er,f'er,sexual_slang_or_context,surge_en|v1
+mfers,mfer,sexual_slang_or_context,surge_en|v1
+mfukk,fuk,sexual_act,surge_en|v1
+mofos,mofo,sexual_slang_or_context,surge_en|v1
+naked,ED,nudity_clothing,editorial|v1
+nudes,nude,nudity_clothing,editorial|v1
+phucc,H,sexual_slang_or_context,surge_en|v1
+phuck,H,sexual_act,surge_en|v1
+phukk,H,sexual_act,surge_en|v1
+phuks,H,sexual_act,surge_en|v1
+phuku,H,sexual_act,surge_en|v1
+phuqs,H,sexual_slang_or_context,surge_en|v1
+porno,porn,adult_media|profanity_mixed,space_en|editorial|v1|ldnoobw_en
+pussy,puss,anatomy|profanity_mixed,surge_en|space_en|editorial|v1|ldnoobw_en
+R-18G,R-18,adult_media,editorial|v1
+scum!,cum,insult,space_v2
+sh!te,H,insult,space_v2
+sh1't,H,insult,space_v2
+sh1te,H,insult,space_v2
+shaft,H,sexual_slang_or_context,editorial|v1
+shhit,H,insult,space_v2
+shits,H,insult,space_v2
+shoot,H,violence_crime,editorial_v2
+shota,H,profanity_mixed,ldnoobw_en
+slave,AV,fetish_bondage|violence_crime,editorial|v1|editorial_v2
+sluts,TS,insult,space_v2
+slutt,slut,insult,space_v2
+smoke,SM,drugs,editorial_v2
+SMグッズ,SM,fetish_bondage,space_ja|v1
+speed,ED,drugs,editorial_v2
+sucks,suck,profanity_mixed,ldnoobw_en
+theft,H,violence_crime,editorial_v2
+Tibet,bet,politics_china,editorial_v2
+titty,tit,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+trash,H,insult,editorial_v2
+tushy,H,profanity_mixed,ldnoobw_en
+twats,TS,anatomy,surge_en|v1
+twatt,twat,anatomy,surge_en|v1
+vibes,vibe,sexual_slang_or_context,editorial|v1
+wanks,wank,sexual_act,surge_en|v1
+White,H,hate_discrimination,editorial_v2
+whore,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+witch,H,religion,editorial_v2
+Wuhan,H,politics_china,editorial_v2
+おねショタ,ショタ,sexual_slang_or_context,editorial|v1
+アナル責め,アナル,sexual_act,editorial|v1
+イラマチオ,ラマ,sexual_slang_or_context|profanity_mixed,space_ja|v1|ldnoobw_ja
+エロアニメ,エロ,adult_media,editorial|v1
+エロサイト,エロ,sexual_expression,editorial|v1
+エロチック,エロ,sexual_expression,editorial|v1
+オナホール,オナ,fetish_bondage,space_ja|editorial|v1
+カウパー液,カウパー,sexual_slang_or_context,editorial|v1
+クリトリス,クリ,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_ja
+ゲイボーイ,ゲイ,profanity_mixed,ldnoobw_ja
+ショタコン,タコ,sexual_slang_or_context,editorial|v1
+セクシーな,セクシー,profanity_mixed,ldnoobw_ja
+セミヌード,ヌード,nudity_clothing,editorial|v1
+ゼロコロナ,コロナ,politics_china,editorial_v2
+ツイフェミ,フェミ,hate_discrimination,editorial_v2
+テロリスト,テロ,politics_general,editorial_v2
+ヌード写真,ヌード,nudity_clothing,editorial|v1
+ネオ・ナチ,ナチ,profanity_mixed,ldnoobw_ja
+パンティー,パンティ,nudity_clothing|profanity_mixed,editorial|v1|ldnoobw_ja
+フェラチオ,フェラ,sexual_act|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+フルヌード,ヌード,nudity_clothing,editorial|v1
+ブラジャー,ブラ,nudity_clothing,editorial|v1
+ブラトップ,ブラ,sexual_slang_or_context,editorial|v1
+ポルノ動画,ポルノ,adult_media,editorial|v1
+ポルノ画像,ポルノ,adult_media,editorial|v1
+ラブホテル,ラブホ,adult_commerce,editorial|v1
+レズビアン,レズ,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_ja
+一つの中国,中国,politics_china,editorial_v2
+一人エッチ,エッチ,sexual_act,editorial|v1
+乳頭ピアス,乳,anatomy,editorial|v1
+乳首いじり,乳,anatomy,editorial|v1
+乳首ピアス,乳,anatomy,editorial|v1
+乳首ポロリ,乳,anatomy,editorial|v1
+児童性虐待,性,profanity_mixed,ldnoobw_ja
+共产党下台,共产党,politics_china,editorial_v2
+制服フェチ,フェチ,fetish_bondage,editorial|v1
+匂いフェチ,フェチ,fetish_bondage,editorial|v1
+合意の性交,性,profanity_mixed,ldnoobw_ja
+尿道プレイ,尿道,profanity_mixed,ldnoobw_ja
+局部アップ,局部,anatomy,space_ja|v1
+巨乳フェチ,乳,anatomy,space_ja|v1
+幼児性愛者,性,profanity_mixed,ldnoobw_ja
+打倒共产党,共产党,politics_china,editorial_v2
+授乳プレイ,乳,sexual_slang_or_context,editorial|v1
+文化大革命,革命,politics_china,editorial_v2
+新型コロナ,コロナ,politics_general,editorial_v2
+日本保守党,保守,politics_general,editorial_v2
+日本共産党,共産,politics_general,editorial_v2
+潮吹き男性,性,profanity_mixed,ldnoobw_ja
+精液まみれ,精液,anatomy,editorial|v1
+糞尿愛好症,糞,profanity_mixed,ldnoobw_ja
+羞恥プレイ,羞恥,sexual_slang_or_context,editorial|v1
+脱衣シーン,脱衣,sexual_slang_or_context,editorial|v1
+裸エプロン,裸,nudity_clothing,space_ja|v1
+触手プレイ,触手,sexual_slang_or_context,editorial|v1
+足裏フェチ,フェチ,fetish_bondage,editorial|v1
+逆ハーレム,ハーレム,sexual_slang_or_context,editorial|v1
+電子タバコ,タバコ,drugs,editorial_v2
+露出プレイ,露出,nudity_clothing,editorial|v1
+0rg@sm,SM,sexual_slang_or_context,surge_en|v1
+18禁ゲーム,18禁,adult_media,editorial|v1
+ahegao,H,sexual_slang_or_context,editorial|v1
+ashole,H,sexual_slang_or_context,surge_en|v1
+assfck,ass,sexual_act,surge_en|v1
+assfkr,ass,sexual_slang_or_context,surge_en|v1
+asshat,H,sexual_slang_or_context,surge_en|v1
+autism,SM,hate_discrimination,editorial_v2
+behead,H,violence_crime,editorial_v2
+bimbos,bimbo,profanity_mixed,ldnoobw_en
+bloody,BL,insult,editorial_v2
+Buddha,H,religion,editorial_v2
+chocha,H,sexual_slang_or_context,surge_en|v1
+Christ,H,religion,editorial_v2
+church,H,religion,editorial_v2
+condom,dom,sexual_slang_or_context,editorial|v1
+coochy,H,sexual_slang_or_context,editorial|v1
+cooter,coot,sexual_slang_or_context,surge_en|v1
+coward,war,insult,editorial_v2
+crotch,H,anatomy,surge_en|editorial|v1
+dildos,dildo,sexual_slang_or_context,editorial|v1
+dommes,dom,profanity_mixed,ldnoobw_en
+douche,H,sexual_slang_or_context|insult,surge_en|v1|editorial_v2
+edging,ED,fetish_bondage,editorial|v1
+erotic,ero,sexual_expression|profanity_mixed,editorial|v1|ldnoobw_en
+eunuch,H,profanity_mixed,ldnoobw_en
+f0cked,ED,sexual_act,surge_en|v1
+f0cker,f0ck,sexual_act,surge_en|v1
+faggot,fag,hate_discrimination|profanity_mixed,editorial_v2|ldnoobw_en
+fatass,ass,sexual_slang_or_context|insult,surge_en|v1|editorial_v2
+fckahz,H,sexual_act,surge_en|v1
+fcking,fck,sexual_act,surge_en|v1
+fckked,ED,sexual_act,surge_en|v1
+fcuked,ED,sexual_act,surge_en|v1
+fcuker,fcuk,sexual_act,surge_en|v1
+fecker,feck,sexual_slang_or_context,surge_en|v1
+feltch,H,profanity_mixed,ldnoobw_en
+femdom,dom,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+fetish,H,fetish_bondage,editorial|v1
+fkings,fking,sexual_slang_or_context,surge_en|v1
+fooker,fook,sexual_act,surge_en|v1
+fookuh,H,sexual_act,surge_en|v1
+forked,ED,sexual_slang_or_context,surge_en|v1
+fuckaz,fuc,sexual_act,surge_en|v1
+fucked,ED,sexual_act,surge_en|v1
+fuckem,fuc,sexual_act,surge_en|v1
+fucker,fuc,sexual_act,surge_en|space_en|v1
+fuckin,fuc,sexual_act|profanity_mixed,surge_en|v1|ldnoobw_en
+fuckup,fuc,sexual_act,surge_en|v1
+fugged,ED,sexual_slang_or_context,surge_en|v1
+fuk1ng,fuk,sexual_act,surge_en|v1
+fuking,fuk,sexual_act,surge_en|v1
+fukked,ED,sexual_act,surge_en|v1
+fukker,fuk,sexual_act,surge_en|v1
+fukkuh,H,sexual_act,surge_en|v1
+fukwit,fuk,sexual_act,surge_en|v1
+fvcker,fvck,sexual_act,surge_en|v1
+fvckin,fvck,sexual_act,surge_en|v1
+fxcked,ED,sexual_slang_or_context,surge_en|v1
+fxcker,fxck,sexual_slang_or_context,surge_en|v1
+g spot,pot,sexual_slang_or_context,editorial|v1
+g-spot,pot,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+gamble,BL,violence_crime,editorial_v2
+goatse,TS,profanity_mixed,ldnoobw_en
+groper,grope,sexual_slang_or_context,surge_en|v1
+h-game,H,sexual_slang_or_context,editorial|v1
+hardon,H,sexual_slang_or_context,editorial|v1
+heaven,H,religion,editorial_v2
+hentai,H,adult_media|profanity_mixed,editorial|v1|ldnoobw_en
+heresy,H,religion,editorial_v2
+heroin,H,drugs,editorial_v2
+Hitler,H,politics_general|insult,editorial_v2|space_v2
+hitman,H,violence_crime,editorial_v2
+honkey,H,profanity_mixed,ldnoobw_en
+hooker,H,adult_commerce|profanity_mixed,editorial|v1|ldnoobw_en
+hookup,H,sexual_slang_or_context,editorial|v1
+j-offs,ffs,sexual_slang_or_context,surge_en|v1
+knob3d,knob,sexual_slang_or_context,surge_en|v1
+knobed,ED,sexual_slang_or_context,surge_en|v1
+knober,knob,sexual_slang_or_context,surge_en|v1
+knobes,knob,sexual_slang_or_context,surge_en|v1
+mf'ers,f'er,sexual_slang_or_context,surge_en|v1
+mofuck,fuc,sexual_act,surge_en|v1
+nambla,BL,profanity_mixed,ldnoobw_en
+nipple,nip,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+no bra,bra,sexual_slang_or_context,editorial|v1
+nympho,H,sexual_slang_or_context|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+occult,cult,religion,editorial_v2
+orgasm,SM,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+peener,peen,sexual_slang_or_context,surge_en|v1
+phucks,H,sexual_act,surge_en|v1
+phucup,H,sexual_slang_or_context,surge_en|v1
+phuked,H,sexual_act,surge_en|v1
+phukup,H,sexual_act,surge_en|v1
+precum,cum,sexual_act,editorial|v1
+pricks,prick,sexual_slang_or_context,surge_en|v1
+psycho,H,insult,editorial_v2
+pusses,puss,sexual_slang_or_context,surge_en|v1
+pussie,puss,sexual_slang_or_context,surge_en|v1
+pussys,puss,anatomy,surge_en|v1
+racism,SM,hate_discrimination,editorial_v2
+ramrod,OD,sexual_slang_or_context,surge_en|v1
+sadism,SM,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+savage,AV,hate_discrimination,editorial_v2
+sexcam,sex,profanity_mixed,ldnoobw_en
+sexism,SM,hate_discrimination,editorial_v2
+sexist,sex,hate_discrimination,editorial_v2
+sexpot,pot,sexual_act,editorial|v1
+sexual,sex,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+sh!tes,H,insult,space_v2
+sharia,H,religion,editorial_v2
+Shinto,H,religion,editorial_v2
+shited,H,insult,space_v2
+shitfk,H,sexual_slang_or_context,surge_en|v1
+shitty,H,profanity_mixed|insult,ldnoobw_en|space_v2
+shlong,H,sexual_slang_or_context,surge_en|v1
+shroom,H,drugs,editorial_v2
+shutup,H,insult,editorial_v2
+slutty,slut,sexual_slang_or_context,editorial|v1
+smutty,SM,sexual_slang_or_context,editorial|v1
+snatch,H,sexual_slang_or_context|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+sniper,nip,violence_crime,editorial_v2
+sodomy,OD,profanity_mixed,ldnoobw_en
+stoned,ED,drugs,editorial_v2
+switch,H,sexual_slang_or_context,editorial|v1
+threat,H,insult,editorial_v2
+titjob,tit,anatomy,editorial|v1
+Uighur,H,politics_china,editorial_v2
+Uyghur,H,politics_china,editorial_v2
+vagina,vag,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+voodoo,OD,religion,editorial_v2
+wank3r,wank,sexual_act,surge_en|v1
+wanked,ED,sexual_act,surge_en|v1
+wanker,wank,sexual_act|insult,surge_en|v1|editorial_v2
+wedgie,ED,sexual_slang_or_context,editorial|v1
+whitey,H,hate_discrimination,editorial_v2
+おしりのあな,おし,profanity_mixed,ldnoobw_ja
+ひとりエッチ,エッチ,sexual_act,editorial|v1
+アダルト動画,アダルト,adult_media,editorial|v1
+アダルト配信,アダルト,adult_media,editorial|v1
+アナルビーズ,アナル,fetish_bondage,editorial|v1
+アナルプラグ,アナル,fetish_bondage,editorial|v1
+アフターピル,ピル,sexual_slang_or_context,editorial|v1
+エクスタシー,エクスタシ,drugs|profanity_mixed,editorial_v2|ldnoobw_ja
+エロチャット,エロ,sexual_expression,editorial|v1
+エロティズム,エロ,profanity_mixed,ldnoobw_ja
+エロティック,エロ,sexual_expression|profanity_mixed,editorial|v1|ldnoobw_ja
+カーセックス,セックス,sexual_act,space_ja|v1
+コックリング,クリ,sexual_slang_or_context,editorial|v1
+スカトロジー,スカトロ,sexual_slang_or_context,editorial|v1
+セクシー女優,セクシー,sexual_expression,editorial|v1
+セックストイ,セックス,fetish_bondage,editorial|v1
+ソフトエッチ,エッチ,sexual_act,space_ja|v1
+デートレイプ,レイプ,profanity_mixed,ldnoobw_ja
+ノーモザイク,イク,nudity_clothing,editorial|v1
+ペニスバンド,ペニス,anatomy|profanity_mixed,editorial|v1|ldnoobw_ja
+ペニスリング,ペニス,anatomy,editorial|v1
+ポルノアニメ,ポルノ,adult_media,editorial|v1
+他妈ㄉ王八蛋,他妈,profanity_mixed,ldnoobw_zh
+口でするやつ,口,sexual_slang_or_context,editorial|user_report|v1
+口を使うやつ,口,sexual_slang_or_context,editorial|user_report|v1
+太ももフェチ,フェチ,fetish_bondage,editorial|v1
+成人向け同人,成人,adult_media,editorial|v1
+成人向け漫画,成人,adult_media,editorial|v1
+新しいポルノ,ポルノ,profanity_mixed,ldnoobw_ja
+0rgasms,SM,sexual_slang_or_context,surge_en|v1
+@sshole,H,sexual_slang_or_context,surge_en|v1
+ableism,BL,hate_discrimination,editorial_v2
+ableist,BL,hate_discrimination,editorial_v2
+alcohol,H,drugs,editorial_v2
+apeshit,H,profanity_mixed,ldnoobw_en
+areolas,areola,anatomy,editorial|v1
+aroused,ED,sexual_expression,editorial|v1
+assface,ass,sexual_slang_or_context,surge_en|v1
+assfker,ass,sexual_slang_or_context,surge_en|v1
+assfook,ass,sexual_act,surge_en|v1
+assfuck,ass,sexual_act,surge_en|v1
+asshol3,H,sexual_slang_or_context,surge_en|v1
+asshole,H,anatomy|insult|profanity_mixed,surge_en|space_en|editorial|v1|editorial_v2|ldnoobw_en
+asswipe,ass,sexual_slang_or_context,surge_en|v1
+atheism,H,religion,editorial_v2
+atheist,H,religion,editorial_v2
+av idol,AV,sexual_slang_or_context,editorial|v1
+AVグランプリ,AV,adult_media,space_ja|v1
+azzhole,H,sexual_slang_or_context,surge_en|v1
+beaners,beaner,profanity_mixed,ldnoobw_en
+bitches,H,profanity_mixed,ldnoobw_en
+blackie,BL,hate_discrimination,editorial_v2
+blowjob,BL,sexual_act|profanity_mixed,surge_en|space_en|editorial|v1|ldnoobw_en
+boobies,boob,anatomy,editorial|v1
+braless,bra,nudity_clothing,editorial|v1
+breasts,TS,anatomy,surge_en|editorial|v1
+brothel,H,adult_commerce,editorial|v1
+bumhole,H,sexual_slang_or_context,surge_en|v1
+c0xux0r,c0x,sexual_slang_or_context,surge_en|v1
+cadaver,AV,violence_crime,editorial_v2
+cam sex,sex,sexual_act,editorial|v1
+camslut,slut,profanity_mixed,ldnoobw_en
+car sex,sex,sexual_act,editorial|v1
+cheater,H,sexual_slang_or_context,editorial|v1
+Chinese,H,politics_china,editorial_v2
+cockboy,cock,anatomy,surge_en|v1
+cockhed,H,anatomy,surge_en|v1
+cocksuk,cock,anatomy,surge_en|v1
+cocsuck,suck,sexual_act,surge_en|v1
+colored,ED,hate_discrimination,editorial_v2
+condoms,dom,sexual_slang_or_context,editorial|v1
+coochie,H,sexual_slang_or_context,editorial|v1
+cracker,crack,hate_discrimination,editorial_v2
+crotchy,H,anatomy,surge_en|v1
+cuckold,cuck,sexual_slang_or_context,editorial|v1
+cumming,cum,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+cumshot,H,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+cuntbag,cunt,anatomy,surge_en|v1
+cuntits,TS,anatomy,surge_en|v1
+dickvag,vag,anatomy,surge_en|v1
+dikhead,H,sexual_slang_or_context,surge_en|v1
+dipshit,H,insult,editorial_v2
+dumb@ss,dumb,sexual_slang_or_context,surge_en|v1
+emperor,ero,politics_general,editorial_v2
+entrail,NTR,violence_crime,editorial_v2
+erogame,ero,adult_media,editorial|v1
+erotica,ero,sexual_expression,editorial|v1
+erotism,SM,sexual_expression|profanity_mixed,editorial|v1|ldnoobw_en
+f0ckers,f0ck,sexual_act,surge_en|v1
+fackuhs,H,sexual_slang_or_context,surge_en|v1
+fascism,SM,politics_general,editorial_v2
+fck you,fck,sexual_act,surge_en|v1
+fckedup,ED,sexual_act,surge_en|v1
+fckking,fck,sexual_act,surge_en|v1
+fcktard,fck,sexual_act,surge_en|v1
+fcukers,fcuk,sexual_act,surge_en|v1
+fcuking,fcuk,sexual_act,surge_en|v1
+fcukker,fcuk,sexual_act,surge_en|v1
+freedom,ED,politics_general,editorial_v2
+fuccers,fuc,sexual_slang_or_context,surge_en|v1
+fuccing,fuc,sexual_slang_or_context,surge_en|v1
+fuck up,fuc,sexual_act,surge_en|v1
+fuckahs,H,sexual_act,surge_en|v1
+fuckass,ass,sexual_act,surge_en|v1
+fuckbag,fuc,sexual_act,surge_en|v1
+fuckboy,fuc,sexual_act,surge_en|v1
+fuckers,fuc,sexual_act,surge_en|v1
+fucking,fuc,sexual_act|profanity_mixed,surge_en|space_en|v1|ldnoobw_en
+fuckwad,fuc,sexual_act,surge_en|v1
+fuggerz,fugger,sexual_slang_or_context,surge_en|v1
+fukkers,fuk,sexual_act,surge_en|v1
+fukking,fuk,sexual_act,surge_en|v1
+fvckers,fvck,sexual_act,surge_en|v1
+fvcking,fvck,sexual_act,surge_en|v1
+fvckwhi,H,sexual_act,surge_en|v1
+fxcking,fxck,sexual_slang_or_context,surge_en|v1
+gay ass,ass,sexual_slang_or_context,surge_en|v1
+gay sex,gay,profanity_mixed,ldnoobw_en
+gravure,AV,sexual_slang_or_context,editorial|v1
+handjob,H,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+hard-on,H,sexual_slang_or_context,editorial|v1
+hashish,H,drugs,editorial_v2
+hatchet,H,violence_crime,editorial_v2
+heretic,H,religion,editorial_v2
+hook up,H,sexual_slang_or_context,editorial|v1
+hooters,H,sexual_slang_or_context,surge_en|v1
+hostage,H,violence_crime,editorial_v2
+hotwife,H,sexual_slang_or_context,editorial|v1
+humping,H,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+jackass,ass,insult,editorial_v2
+Jehovah,H,religion,editorial_v2
+jerkoff,jerk,sexual_act,surge_en|v1
+johnson,H,sexual_slang_or_context,editorial|v1
+Judaism,SM,religion,editorial_v2
+knob3nd,knob,sexual_slang_or_context,surge_en|v1
+knobead,knob,sexual_slang_or_context,surge_en|v1
+knobeds,ED,sexual_slang_or_context,surge_en|v1
+knobend,knob,sexual_slang_or_context,surge_en|v1
+lesbian,SB,hate_discrimination,editorial_v2
+livesex,sex,profanity_mixed,ldnoobw_en
+lustful,lust,sexual_expression,editorial|v1
+machete,H,violence_crime,editorial_v2
+maledom,ED,fetish_bondage,editorial|v1
+manhood,H,sexual_slang_or_context,editorial|v1
+mfckers,fck,sexual_act,surge_en|v1
+mfukker,fuk,sexual_act,surge_en|v1
+mofcker,fck,sexual_act,surge_en|v1
+monarch,H,politics_general,editorial_v2
+mothfck,H,sexual_act,surge_en|v1
+n0bhead,H,sexual_slang_or_context,surge_en|v1
+nawashi,H,profanity_mixed,ldnoobw_en
+negrero,ero,insult,space_v2
+neonazi,nazi,profanity_mixed,ldnoobw_en
+niggers,nigger,insult,space_v2
+nipples,nip,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+nipslip,nip,sexual_slang_or_context,editorial|v1
+nobhead,H,sexual_slang_or_context,surge_en|v1
+nutsack,TS,anatomy,surge_en|editorial|v1
+onahole,H,sexual_slang_or_context,editorial|v1
+onahoru,H,sexual_slang_or_context,editorial|v1
+penises,penis,anatomy,editorial|v1
+phallic,H,anatomy,editorial|v1
+phallus,H,anatomy,editorial|v1
+phuccer,H,sexual_slang_or_context,surge_en|v1
+phuck3r,H,sexual_act,surge_en|v1
+phucked,H,sexual_act,surge_en|v1
+phucker,H,sexual_act,surge_en|v1
+phuckin,H,sexual_act,surge_en|v1
+phukeds,H,sexual_act,surge_en|v1
+phuking,H,sexual_act,surge_en|v1
+phukked,H,sexual_act,surge_en|v1
+phukker,H,sexual_act,surge_en|v1
+pissing,piss,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+pisspig,piss,profanity_mixed,ldnoobw_en
+poonani,poon,sexual_slang_or_context,editorial|v1
+pre cum,cum,sexual_act,editorial|v1
+pre-cum,cum,sexual_act,editorial|v1
+pussies,puss,sexual_slang_or_context,surge_en|v1
+racista,racist,insult,space_v2
+raghead,H,hate_discrimination|profanity_mixed,editorial_v2|ldnoobw_en
+redskin,ED,hate_discrimination,editorial_v2
+schlong,H,anatomy|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+sex act,sex,sexual_act,editorial|v1
+sex toy,sex,sexual_act,editorial|v1
+sexting,sex,sexual_act,editorial|v1
+shemale,H,hate_discrimination|profanity_mixed,editorial_v2|ldnoobw_en
+shibari,H,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+shitass,H,sexual_slang_or_context,surge_en|v1
+shitfck,H,sexual_act,surge_en|v1
+shiting,H,insult,space_v2
+shitted,H,insult,space_v2
+shitter,H,insult,space_v2
+shut up,H,insult,editorial_v2
+slavery,AV,violence_crime,editorial_v2
+slutbag,slut,insult,space_v2
+smoking,SM,drugs,editorial_v2
+smuggle,GL,violence_crime,editorial_v2
+Tibetan,bet,politics_china,editorial_v2
+tied up,ED,profanity_mixed,ldnoobw_en
+tit job,tit,anatomy,editorial|v1
+titfuck,fuc,anatomy,editorial|v1
+titties,tit,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+twinkie,twink,profanity_mixed,ldnoobw_en
+vaginal,vag,anatomy,editorial|v1
+w@nkers,w@nker,sexual_slang_or_context,surge_en|v1
+wank3rs,wank,sexual_act,surge_en|v1
+wankers,wank,sexual_act,surge_en|v1
+wankies,wank,sexual_act,surge_en|v1
+wanking,wank,sexual_act,surge_en|editorial|v1
+x-rated,ED,adult_media,editorial|v1
+Zionism,SM,politics_general,editorial_v2
+Zionist,Zion,politics_general,editorial_v2
+くまのプーさん,プーさん,politics_china,editorial_v2
+アダルトグッズ,アダルト,adult_media,editorial|v1
+アダルトビデオ,アダルト,adult_media,editorial|v1
+アダルトライブ,アダルト,adult_media,editorial|v1
+アナルセックス,アナル,sexual_act,space_ja|editorial|v1
+アナルリミング,アナル,sexual_act,editorial|v1
+クリスタルメス,クリ,drugs,editorial_v2
+クンニリングス,クンニ,sexual_act|profanity_mixed,editorial|v1|ldnoobw_ja
+ゲイ・セックス,ゲイ,profanity_mixed,ldnoobw_ja
+コスプレフェチ,フェチ,fetish_bondage,editorial|v1
+ニプルファック,ファック,sexual_slang_or_context,space_ja|v1
+ヌードグラビア,ヌード,nudity_clothing,editorial|v1
+バイブレーター,バイブ,fetish_bondage|profanity_mixed,space_ja|editorial|v1|ldnoobw_ja
+フェラチオする,フェラ,sexual_act,editorial|v1
+ポルノグラフィ,ポルノ,adult_media,editorial|v1
+ライブアダルト,アダルト,adult_media,editorial|v1
+ワンナイトラブ,ワンナイト,sexual_slang_or_context,editorial|v1
+性感マッサージ,性,sexual_slang_or_context,editorial|v1
+成人向けアニメ,成人,adult_media,editorial|v1
+成人向けゲーム,成人,adult_media,editorial|v1
+0ral sex,sex,sexual_act,surge_en|v1
+@ssfcker,fck,sexual_act,surge_en|v1
+anal sex,sex,sexual_act,editorial|v1
+analplug,anal,sexual_slang_or_context,surge_en|v1
+ar5ehole,H,sexual_slang_or_context,surge_en|v1
+arsefuck,fuc,sexual_act,surge_en|v1
+arsehole,H,anatomy|insult|profanity_mixed,surge_en|space_en|v1|editorial_v2|ldnoobw_en
+arseshit,H,sexual_slang_or_context,surge_en|v1
+arsewipe,arse,sexual_slang_or_context,surge_en|v1
+ass fuck,ass,sexual_act,surge_en|v1
+ass hole,H,sexual_slang_or_context,surge_en|v1
+ass-hole,H,sexual_slang_or_context,surge_en|v1
+assassin,ass,violence_crime,editorial_v2
+assfcker,ass,sexual_act,surge_en|v1
+assfkcer,ass,sexual_slang_or_context,surge_en|v1
+assfukah,H,sexual_act,surge_en|v1
+assfukka,ass,sexual_act,surge_en|v1
+assholes,H,anatomy,surge_en|v1
+assmunch,H,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+asswhole,H,sexual_slang_or_context,surge_en|v1
+b0llocks,b0llock,sexual_slang_or_context,surge_en|v1
+babeland,babe,profanity_mixed,ldnoobw_en
+ball gag,gag,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+ballsack,sack,anatomy,editorial|v1
+bastardo,bastard,profanity_mixed,ldnoobw_en
+bath sex,H,sexual_act,editorial|v1
+big tits,TS,profanity_mixed,ldnoobw_en
+bisexual,sex,hate_discrimination,editorial_v2
+blow job,BL,sexual_act|profanity_mixed,surge_en|space_en|editorial|v1|ldnoobw_en
+blow-job,BL,sexual_slang_or_context,editorial|v1
+blumpkin,BL,profanity_mixed,ldnoobw_en
+bollocks,bollock,sexual_slang_or_context|insult|profanity_mixed,surge_en|v1|editorial_v2|ldnoobw_en|space_v2
+Buddhism,H,religion,editorial_v2
+Buddhist,H,religion,editorial_v2
+bulldyke,dyke,profanity_mixed,ldnoobw_en
+bullshit,H,insult|profanity_mixed,editorial_v2|ldnoobw_en|space_v2
+bunghole,H,profanity_mixed,ldnoobw_en
+buttfuck,fuc,sexual_act,surge_en|space_en|v1
+butthole,H,anatomy|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+buttocks,butt,anatomy,editorial|v1
+buttplug,butt,sexual_slang_or_context,editorial|v1
+c*ntface,c*nt,sexual_slang_or_context,surge_en|v1
+c0ckhead,H,sexual_slang_or_context,surge_en|v1
+camwhore,H,profanity_mixed,ldnoobw_en
+Catholic,H,religion,editorial_v2
+censored,ED,sexual_slang_or_context|politics_general,editorial|v1|editorial_v2
+chainsaw,H,violence_crime,editorial_v2
+cheating,H,sexual_slang_or_context,editorial|v1
+cleavage,AV,sexual_slang_or_context,editorial|v1
+clitoral,clit,anatomy,editorial|v1
+clitoris,clit,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+cockface,cock,anatomy,surge_en|v1
+cockh3ad,H,anatomy,surge_en|v1
+cockhead,H,anatomy,surge_en|v1
+cockless,cock,anatomy,surge_en|v1
+cockshit,H,anatomy,surge_en|v1
+cockskin,cock,anatomy,surge_en|v1
+cocksucc,cock,anatomy,surge_en|v1
+cocksuck,cock,anatomy,surge_en|v1
+cocksuka,cock,anatomy,surge_en|v1
+coksucka,suck,sexual_act,surge_en|v1
+coloured,ED,hate_discrimination,editorial_v2
+cornhole,H,profanity_mixed,ldnoobw_en
+cum goon,cum,sexual_act,surge_en|v1
+cum shot,H,sexual_act,editorial|v1
+cumshots,H,profanity_mixed,ldnoobw_en
+cunt ass,ass,anatomy,surge_en|v1
+cuntless,NTL,anatomy,surge_en|v1
+cuntlick,NTL,anatomy,surge_en|v1
+cuntness,cunt,anatomy,surge_en|v1
+cyberfck,fck,sexual_act,surge_en|v1
+cybersex,sex,sexual_act,editorial|v1
+d1ckhead,H,sexual_slang_or_context,surge_en|v1
+darkfuck,fuc,sexual_act,surge_en|v1
+daterape,rape,profanity_mixed,ldnoobw_en
+dickface,dick,anatomy,surge_en|v1
+dickhead,H,anatomy|insult,surge_en|v1|editorial_v2
+dickless,dick,anatomy,surge_en|v1
+dickskin,dick,anatomy,surge_en|v1
+dog fuck,fuc,sexual_act,surge_en|v1
+dominant,dom,sexual_slang_or_context,editorial|v1
+dry hump,H,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+dumasses,ass,sexual_slang_or_context,surge_en|v1
+ero game,ero,sexual_slang_or_context,editorial|v1
+fatasses,ass,sexual_slang_or_context,surge_en|v1
+fistfuck,fuc,sexual_act,space_en|v1
+frottage,frot,sexual_act,editorial|v1
+frotting,frot,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+fuck off,fuc,sexual_act,surge_en|v1
+fuck y0u,fuc,sexual_act,surge_en|v1
+fuck you,fuc,sexual_act,surge_en|v1
+fuckface,fuc,sexual_act,surge_en|v1
+fuckhead,H,sexual_act,surge_en|v1
+fuckless,fuc,sexual_act,surge_en|v1
+fuckshit,H,sexual_act,surge_en|v1
+fuckstar,fuc,sexual_act,surge_en|v1
+fuckster,fuc,sexual_act,surge_en|v1
+fucktard,fuc,sexual_act,surge_en|v1
+fukheads,H,sexual_act,surge_en|v1
+fukkings,fuk,sexual_act,surge_en|v1
+fukwhore,H,sexual_act,surge_en|v1
+fvck you,fvck,sexual_act,surge_en|v1
+gangbang,gang,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+genitals,genital,anatomy|profanity_mixed,editorial|v1|ldnoobw_en
+god damn,OD,profanity_mixed,ldnoobw_en
+goodpoop,dp,profanity_mixed,ldnoobw_en
+goregasm,SM,profanity_mixed,ldnoobw_en
+hand job,H,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+hand-job,H,sexual_slang_or_context,editorial|v1
+handicap,H,hate_discrimination,editorial_v2
+hardcore,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+have sex,H,sexual_act,editorial|v1
+Hispanic,H,hate_discrimination,editorial_v2
+homicide,H,violence_crime,editorial_v2
+hot carl,H,profanity_mixed,ldnoobw_en
+huge fat,H,profanity_mixed,ldnoobw_en
+imprison,prison,violence_crime,editorial_v2
+inhalant,H,drugs,editorial_v2
+jackarse,arse,sexual_slang_or_context,surge_en|v1
+jackoffs,ffs,sexual_act,surge_en|v1
+jackoffz,jackoff,sexual_act,surge_en|v1
+jailbait,jail,profanity_mixed,ldnoobw_en
+jerk off,jerk,sexual_act|profanity_mixed,surge_en|editorial|v1|ldnoobw_en
+jerk-0ff,jerk,sexual_slang_or_context,surge_en|v1
+jerk-off,jerk,sexual_slang_or_context,surge_en|v1
+jerkoffs,ffs,sexual_act,surge_en|v1
+kinkster,kink,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+kiss ass,ass,sexual_slang_or_context,surge_en|v1
+knobbing,knob,profanity_mixed,ldnoobw_en
+knobeads,knob,sexual_slang_or_context,surge_en|v1
+knobends,knob,sexual_slang_or_context,surge_en|v1
+knobendy,knob,sexual_slang_or_context,surge_en|v1
+knobendz,knob,sexual_slang_or_context,surge_en|v1
+knobhead,H,sexual_slang_or_context|insult,surge_en|v1|editorial_v2
+lewdness,lewd,sexual_expression,editorial|v1
+massacre,ass,violence_crime,editorial_v2
+mindfuck,fuc,sexual_act,surge_en|v1
+mofo ass,ass,sexual_slang_or_context,surge_en|v1
+mofoshit,H,sexual_slang_or_context,surge_en|v1
+mofukkas,fuk,sexual_act,surge_en|v1
+Mohammed,H,religion,editorial_v2
+morphine,H,drugs,editorial_v2
+motherfk,H,sexual_act,surge_en|v1
+mr hands,H,profanity_mixed,ldnoobw_en
+Muhammad,H,religion,editorial_v2
+n0bj0cky,bj,sexual_slang_or_context,surge_en|v1
+nip slip,nip,nudity_clothing,editorial|v1
+nobheads,H,sexual_slang_or_context,surge_en|v1
+nobj0key,bj,sexual_slang_or_context,surge_en|v1
+nobjocky,bj,sexual_slang_or_context,surge_en|v1
+nobjokey,bj,sexual_slang_or_context,surge_en|v1
+numbnuts,TS,insult,editorial_v2
+nutsacks,TS,anatomy,surge_en|v1
+omorashi,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+oral sex,sex,sexual_act,editorial|v1
+orgasmic,SM,sexual_act,editorial|v1
+pathetic,H,insult,editorial_v2
+pedobear,ED,profanity_mixed,ldnoobw_en
+phuccing,H,sexual_slang_or_context,surge_en|v1
+phucking,H,sexual_act,surge_en|v1
+phukhead,H,sexual_act,surge_en|v1
+phukings,H,sexual_act,surge_en|v1
+phukkeds,H,sexual_act,surge_en|v1
+phukking,H,sexual_act,surge_en|v1
+phukshit,H,sexual_act,surge_en|v1
+piss pig,piss,profanity_mixed,ldnoobw_en
+poontang,poon,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+pornstar,porn,adult_media,editorial|v1
+pov porn,porn,adult_media,editorial|v1
+pussless,puss,sexual_slang_or_context,surge_en|v1
+rohypnol,H,drugs,editorial_v2
+scamfuck,fuc,sexual_act,surge_en|v1
+scumfuck,cum,sexual_act,surge_en|v1
+scumfvck,cum,sexual_act,surge_en|v1
+selfharm,H,self_harm,editorial_v2
+sex bomb,sex,sexual_act,editorial|v1
+sex call,sex,sexual_act,editorial|v1
+sex chat,H,sexual_act,editorial|v1
+sex club,sex,adult_commerce,editorial|v1
+sex doll,sex,sexual_act,editorial|v1
+sex shop,H,adult_commerce,editorial|v1
+sex toys,sex,sexual_act,editorial|v1
+sex work,sex,sexual_act,editorial|v1
+sexiness,sex,sexual_act,editorial|v1
+sexually,sex,profanity_mixed,ldnoobw_en
+sh1tdick,H,anatomy,surge_en|v1
+sh1thead,H,insult,space_v2
+shaggers,H,sexual_slang_or_context,space_en|v1
+shiddick,H,anatomy,surge_en|v1
+shitd1ck,H,sexual_slang_or_context,surge_en|v1
+shitdick,H,anatomy,surge_en|v1
+shitface,H,insult,space_v2
+shitfuck,H,sexual_act|insult,surge_en|v1|space_v2
+shitfull,H,insult,space_v2
+shitfvck,H,sexual_act,surge_en|v1
+shithead,H,insult,space_v2
+shithole,H,sexual_slang_or_context|insult,surge_en|v1|space_v2
+shitings,H,insult,space_v2
+shitters,H,insult,space_v2
+shitting,H,insult,space_v2
+shut the,H,insult,editorial_v2
+sideboob,boob,anatomy,editorial|v1
+slanteye,slant,profanity_mixed|insult,ldnoobw_en|space_v2
+slutting,slut,insult,space_v2
+slutwear,slut,insult,space_v2
+sodomize,OD,profanity_mixed,ldnoobw_en
+spooning,poon,sexual_act,editorial|v1
+stabbing,stab,violence_crime,editorial_v2
+strangle,GL,violence_crime,editorial_v2
+stripper,strip,nudity_clothing,editorial|v1
+suck off,suck,sexual_act,surge_en|v1
+swingers,swinger,adult_commerce,editorial|v1
+threeway,H,sexual_slang_or_context,editorial|v1
+throater,H,sexual_slang_or_context,surge_en|v1
+throuple,H,sexual_slang_or_context,editorial|v1
+tit fuck,fuc,anatomy,editorial|v1
+twatface,twat,anatomy,surge_en|v1
+twattish,H,anatomy,surge_en|v1
+upskirts,TS,nudity_clothing,surge_en|v1
+vibrator,bra,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+wank off,wank,sexual_act,surge_en|editorial|v1
+whipping,H,sexual_slang_or_context,editorial|v1
+wise ass,ass,sexual_slang_or_context,surge_en|v1
+worldsex,sex,profanity_mixed,ldnoobw_en
+アダルトチャット,アダルト,adult_media,editorial|v1
+オーラルセックス,オーラル,sexual_act,editorial|v1
+サイバーセックス,セックス,sexual_act,editorial|v1
+セックスフレンド,セックス,sexual_act,editorial|v1
+フィストファック,ファック,sexual_slang_or_context,space_ja|v1
+ポルノグラフィー,ポルノ,adult_media|profanity_mixed,editorial|v1|ldnoobw_ja
+我操你祖宗十八代,我操,profanity_mixed,ldnoobw_zh
+@ssfucker,fuc,sexual_act,surge_en|v1
+@ssfvcker,fvck,sexual_act,surge_en|v1
+anal hole,H,sexual_slang_or_context,surge_en|v1
+anal hore,H,sexual_slang_or_context,surge_en|v1
+anal plug,anal,sexual_slang_or_context,editorial|v1
+analingus,anal,sexual_slang_or_context,surge_en|v1
+analplugs,anal,sexual_slang_or_context,surge_en|v1
+anus plug,anus,sexual_slang_or_context,surge_en|v1
+arse hole,H,sexual_slang_or_context,surge_en|v1
+arse-hole,H,sexual_slang_or_context,surge_en|v1
+asscheeks,H,sexual_slang_or_context,editorial|v1
+assfuccer,ass,sexual_slang_or_context,surge_en|v1
+assfuck3r,ass,sexual_act,surge_en|v1
+assfucker,ass,sexual_act,surge_en|v1
+assfukker,ass,sexual_act,surge_en|v1
+assfvck3r,ass,sexual_act,surge_en|v1
+assfvcker,ass,sexual_act,surge_en|v1
+axe wound,axe,sexual_slang_or_context,surge_en|v1
+ball sack,sack,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+barenaked,ED,profanity_mixed,ldnoobw_en
+bed scene,ED,sexual_slang_or_context,editorial|v1
+big black,BL,profanity_mixed,ldnoobw_en
+bitchfuck,H,sexual_act,surge_en|v1
+bitchhole,H,sexual_slang_or_context,surge_en|v1
+bitchtits,H,anatomy,surge_en|v1
+blackmail,BL,violence_crime,editorial_v2
+blasphemy,H,religion,editorial_v2
+blindfold,BL,fetish_bondage,editorial|v1
+bung hole,H,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+butt fuck,fuc,sexual_act,surge_en|v1
+butt hole,H,sexual_slang_or_context,surge_en|v1
+butt plug,butt,sexual_slang_or_context,editorial|v1
+cam model,OD,sexual_slang_or_context,editorial|v1
+Christian,H,hate_discrimination,editorial_v2
+cock head,H,anatomy,surge_en|v1
+cock ring,cock,anatomy,editorial|v1
+cock snot,cock,anatomy,surge_en|v1
+cock suck,cock,anatomy,surge_en|v1
+cock-face,cock,anatomy,surge_en|v1
+cock-head,H,anatomy,surge_en|v1
+cockeater,cock,anatomy,surge_en|v1
+cockheads,H,anatomy,surge_en|v1
+cockmunch,H,anatomy,surge_en|v1
+cocksucks,cock,anatomy,surge_en|v1
+cocksukka,cock,anatomy,surge_en|v1
+communism,SM,politics_general,editorial_v2
+coot coot,coot,sexual_slang_or_context,surge_en|v1
+cuckquean,cuck,sexual_slang_or_context,editorial|v1
+cunt fart,cunt,anatomy,surge_en|v1
+cunt lick,cunt,anatomy,surge_en|v1
+cunt lips,cunt,anatomy,surge_en|v1
+cuntelope,cunt,anatomy,surge_en|v1
+cyberfcks,fck,sexual_act,surge_en|v1
+cyberfucs,fuc,sexual_slang_or_context,surge_en|v1
+cyberfukk,fuk,sexual_act,surge_en|v1
+d1ckheads,H,sexual_slang_or_context,surge_en|v1
+d1cksukka,d1ck,sexual_slang_or_context,surge_en|v1
+date rape,rape,profanity_mixed,ldnoobw_en
+dick face,dick,anatomy,surge_en|v1
+dick head,H,anatomy,surge_en|v1
+dick-face,dick,anatomy,surge_en|v1
+dick-head,H,anatomy,surge_en|v1
+dickheads,H,anatomy,surge_en|v1
+dismember,SM,violence_crime,editorial_v2
+dominance,dom,sexual_slang_or_context,editorial|v1
+douchebag,H,sexual_slang_or_context,surge_en|v1
+doujinshi,H,sexual_slang_or_context,editorial|v1
+dp action,dp,profanity_mixed,ldnoobw_en
+drop dead,dead,insult,editorial_v2
+dumbasses,ass,sexual_slang_or_context,surge_en|v1
+dumbfucks,fuc,sexual_act,surge_en|v1
+ero anime,ero,sexual_slang_or_context,editorial|v1
+ero manga,ero,sexual_slang_or_context,editorial|v1
+eroticism,SM,sexual_expression,editorial|v1
+escorting,escort,adult_commerce,editorial|v1
+extremism,SM,politics_general,editorial_v2
+face fuck,fuc,sexual_act,surge_en|v1
+feck arse,arse,sexual_slang_or_context,surge_en|v1
+fetishism,H,fetish_bondage,editorial|v1
+fetishist,H,fetish_bondage,editorial|v1
+fingering,finger,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+fingerpop,finger,sexual_slang_or_context,surge_en|v1
+fuck arse,fuc,sexual_act,surge_en|v1
+fuck face,fuc,sexual_act,surge_en|v1
+fuck head,H,sexual_act,surge_en|v1
+fuck your,fuc,sexual_act,surge_en|v1
+fuckasses,ass,sexual_act,surge_en|v1
+fuckbuddy,bud,sexual_act,editorial|v1
+fucked up,ED,sexual_act,surge_en|v1
+fuckfaces,fuc,sexual_act,surge_en|v1
+fuckheads,H,sexual_act,surge_en|v1
+fucking a,fuc,sexual_act,surge_en|v1
+fuckstick,fuc,sexual_act,surge_en|v1
+fucktards,fuc,sexual_act|profanity_mixed,surge_en|v1|ldnoobw_en
+fuckwhore,H,sexual_act,surge_en|v1
+full nude,nude,nudity_clothing,editorial|v1
+fvckbunny,fvck,sexual_act,surge_en|v1
+gang bang,gang,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+genitalia,genital,anatomy,editorial|v1
+group sex,sex,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+handcuffs,H,sexual_slang_or_context,editorial|v1
+hard core,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+hoe-asses,H,sexual_slang_or_context,surge_en|v1
+Holocaust,H,politics_general,editorial_v2
+holy fuck,H,sexual_act,surge_en|v1
+Hong Kong,H,politics_china,editorial_v2
+hot chick,H,profanity_mixed,ldnoobw_en
+hotel sex,H,sexual_act,editorial|v1
+hotwifing,H,sexual_slang_or_context,editorial|v1
+impotence,pot,sexual_slang_or_context,editorial|v1
+jack-offs,ffs,sexual_slang_or_context,surge_en|v1
+jackasses,ass,sexual_slang_or_context,surge_en|v1
+jail bait,jail,profanity_mixed,ldnoobw_en
+jerk-0ffs,ffs,sexual_slang_or_context,surge_en|v1
+jerk-offs,ffs,sexual_slang_or_context,surge_en|v1
+jerks off,jerk,sexual_slang_or_context,surge_en|v1
+jizzsacks,jizz,anatomy,surge_en|v1
+knob-face,knob,sexual_slang_or_context,surge_en|v1
+knob-head,H,sexual_slang_or_context,surge_en|v1
+knobender,knob,sexual_slang_or_context,surge_en|v1
+knobheads,H,sexual_slang_or_context,surge_en|v1
+knobjocky,bj,sexual_slang_or_context,surge_en|v1
+lady bits,TS,sexual_slang_or_context,editorial|v1
+m@derfuck,fuc,sexual_act,surge_en|v1
+marihuana,H,drugs,editorial_v2
+markasses,ass,sexual_slang_or_context,surge_en|v1
+masochism,H,fetish_bondage,editorial|v1
+masochist,H,fetish_bondage,editorial|v1
+mofuccers,fuc,sexual_slang_or_context,surge_en|v1
+mofuckkas,fuc,sexual_act,surge_en|v1
+mongoloid,mong,hate_discrimination,editorial_v2
+mothafucc,H,sexual_act,surge_en|v1
+mothafuck,H,sexual_act,surge_en|v1
+mthrfcker,H,sexual_act,surge_en|v1
+mudderfuk,fuk,sexual_act,surge_en|v1
+nakadashi,H,sexual_slang_or_context,editorial|v1
+naked man,ED,nudity_clothing,editorial|v1
+nobbyhead,H,sexual_slang_or_context,surge_en|v1
+octopussy,puss,anatomy|profanity_mixed,surge_en|v1|ldnoobw_en
+p3n1shead,H,sexual_slang_or_context,surge_en|v1
+pantyless,panty,nudity_clothing,editorial|v1
+pedophile,H,profanity_mixed,ldnoobw_en
+penishead,H,anatomy,surge_en|v1
+phone sex,H,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+phucchead,H,sexual_slang_or_context,surge_en|v1
+phuckings,H,sexual_act,surge_en|v1
+phvckings,H,sexual_slang_or_context,surge_en|v1
+pigfucker,fuc,sexual_act,surge_en|v1
+pigfukker,fuk,sexual_act,surge_en|v1
+piggyfuck,fuc,sexual_act,surge_en|v1
+piss play,piss,sexual_slang_or_context,editorial|v1
+poopchute,H,profanity_mixed,ldnoobw_en
+porn star,porn,adult_media,editorial|v1
+pussy cat,puss,anatomy,surge_en|v1
+sacrifice,ice,religion,editorial_v2
+scatology,scat,sexual_slang_or_context,editorial|v1
+self harm,H,self_harm,editorial_v2
+self-harm,H,self_harm,editorial_v2
+sex drive,sex,sexual_act,editorial|v1
+sex scene,sex,sexual_act,editorial|v1
+sex slave,AV,fetish_bondage,editorial|v1
+sex trade,sex,adult_commerce,editorial|v1
+sexuality,sex,profanity_mixed,ldnoobw_en
+sh1theads,H,insult,space_v2
+shit-arse,H,sexual_slang_or_context,surge_en|v1
+shitasses,H,sexual_slang_or_context,surge_en|v1
+shitblimp,H,profanity_mixed,ldnoobw_en
+shitdicks,H,anatomy,surge_en|v1
+shitedick,H,anatomy,surge_en|v1
+shitefuck,H,sexual_act,surge_en|v1
+shitfaced,H,insult,space_v2
+shitfucks,H,sexual_act,surge_en|v1
+shithouse,H,insult,space_v2
+shitsdick,H,anatomy,surge_en|v1
+shitsfuck,H,sexual_act,surge_en|v1
+shitstain,H,insult,space_v2
+shittiest,H,insult,space_v2
+shittings,H,insult,space_v2
+shrimping,H,profanity_mixed,ldnoobw_en
+slaughter,H,violence_crime,editorial_v2
+slut hole,H,sexual_slang_or_context,surge_en|v1
+slutwhore,H,insult,space_v2
+socialism,SM,politics_general,editorial_v2
+socialist,cialis,politics_general,editorial_v2
+soft porn,porn,adult_media,editorial|v1
+sphincter,H,anatomy,surge_en|editorial|v1
+squirting,squirt,sexual_act,editorial|v1
+stripping,strip,nudity_clothing,editorial|v1
+suck my d,suck,sexual_act,surge_en|v1
+terrorism,SM,politics_general,editorial_v2
+testicles,testicle,anatomy,editorial|v1
+three-way,H,sexual_slang_or_context,editorial|v1
+threesome,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+throating,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+tittyfuck,fuc,anatomy,editorial|v1
+towelhead,H,hate_discrimination|profanity_mixed,editorial_v2|ldnoobw_en
+tribadism,SM,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+twatzilla,twat,anatomy,surge_en|v1
+underboob,boob,anatomy,editorial|v1
+urophilia,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+vibrators,bra,sexual_slang_or_context,editorial|v1
+video sex,sex,sexual_act,editorial|v1
+voyeurism,SM,sexual_slang_or_context,editorial|v1
+voyeurweb,voyeur,profanity_mixed,ldnoobw_en
+whack off,H,sexual_slang_or_context,surge_en|v1
+worthless,H,insult,editorial_v2
+zoophilia,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+オンラインセックス,セックス,sexual_act,editorial|v1
+グループ・セックス,セックス,profanity_mixed,ldnoobw_ja
+テレフォンセックス,セックス,sexual_act|profanity_mixed,editorial|v1|ldnoobw_ja
+adult chat,H,sexual_slang_or_context,editorial|v1
+adult shop,H,adult_commerce,editorial|v1
+adult toys,adult toy,sexual_slang_or_context,editorial|v1
+anal beads,anal,sexual_slang_or_context,editorial|v1
+arsefucker,fuc,sexual_act,surge_en|v1
+ass bandit,ass,sexual_slang_or_context,surge_en|v1
+ass cheeks,H,sexual_slang_or_context,editorial|v1
+ass fecker,ass,sexual_slang_or_context,surge_en|v1
+ass fucker,ass,sexual_act,surge_en|v1
+ass kisser,ass,sexual_slang_or_context,surge_en|v1
+ass-bandit,ass,sexual_slang_or_context,surge_en|v1
+ass-fucker,ass,sexual_act,surge_en|v1
+assfuckers,ass,sexual_act,surge_en|v1
+assfuckerz,ass,sexual_act,surge_en|v1
+assfukkerz,ass,sexual_act,surge_en|v1
+assmuncher,H,sexual_slang_or_context,surge_en|v1
+autoerotic,ero,profanity_mixed,ldnoobw_en
+baby juice,ice,profanity_mixed,ldnoobw_en
+ball gravy,AV,profanity_mixed,ldnoobw_en
+bare naked,ED,nudity_clothing,editorial|v1
+bare-naked,ED,nudity_clothing,editorial|v1
+bitchasses,H,sexual_slang_or_context,surge_en|v1
+bitchy ass,H,sexual_slang_or_context,surge_en|v1
+black cock,BL,profanity_mixed,ldnoobw_en
+blue balls,BL,sexual_slang_or_context,editorial|v1
+booty call,booty,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+bugger off,bugger,sexual_slang_or_context,surge_en|v1
+buttcheeks,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+buttfucker,fuc,sexual_act,surge_en|v1
+c0cksuccer,c0ck,sexual_slang_or_context,surge_en|v1
+c0cksucked,ED,sexual_act,surge_en|v1
+c0cksucker,c0ck,sexual_act,surge_en|v1
+capitalism,SM,politics_general,editorial_v2
+casual sex,sex,sexual_act,editorial|v1
+cawksucker,cawk,sexual_act,surge_en|v1
+censorship,H,politics_general,editorial_v2
+Charter 08,H,politics_china,editorial_v2
+chesticles,H,sexual_slang_or_context,surge_en|v1
+circlejerk,jerk,profanity_mixed,ldnoobw_en
+cock munch,H,anatomy,surge_en|v1
+cock rider,cock,anatomy,surge_en|v1
+cock tease,cock,anatomy,surge_en|v1
+cocklicker,cock,anatomy,surge_en|v1
+cockmonger,cock,anatomy,surge_en|v1
+cocksmoker,SM,anatomy,surge_en|v1
+cocksuccas,cock,anatomy,surge_en|v1
+cocksuccer,cock,anatomy,surge_en|v1
+cocksuckas,cock,anatomy,surge_en|v1
+cocksucked,ED,anatomy,surge_en|v1
+cocksucker,cock,anatomy,surge_en|space_en|v1
+cokmuncher,H,sexual_slang_or_context,surge_en|v1
+coprophagy,H,sexual_slang_or_context,editorial|v1
+cuckolding,cuck,sexual_slang_or_context,editorial|v1
+cuntlicker,NTL,anatomy,surge_en|v1
+cyberfuccs,fuc,sexual_slang_or_context,surge_en|v1
+cyberfucks,fuc,sexual_act,surge_en|v1
+cyberfukks,fuk,sexual_act,surge_en|v1
+cyberfvcks,fvck,sexual_act,surge_en|v1
+d1cksucker,d1ck,sexual_act,surge_en|v1
+deepthroat,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+democratic,democrat,politics_general,editorial_v2
+dickfucker,fuc,anatomy,surge_en|v1
+dicklicker,dick,anatomy,surge_en|v1
+dicksmoker,SM,anatomy,surge_en|v1
+dicksucker,dick,anatomy,surge_en|v1
+dog fucker,fuc,sexual_act,surge_en|v1
+dog-fucker,fuc,sexual_act,surge_en|v1
+domination,dom,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+dominatrix,dom,fetish_bondage|profanity_mixed,editorial|v1|ldnoobw_en
+double pen,BL,sexual_slang_or_context,surge_en|v1
+downblouse,BL,nudity_clothing,editorial|v1
+eat my ass,ass,profanity_mixed,ldnoobw_en
+enema play,enema,sexual_slang_or_context,editorial|v1
+erotic art,ero,sexual_expression,editorial|v1
+euthanasia,H,self_harm,editorial_v2
+fanservice,ice,sexual_slang_or_context,editorial|v1
+fingerbang,finger,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+fingerfuck,fuc,sexual_act,editorial|v1
+fleshlight,H,sexual_slang_or_context,editorial|v1
+fuck buddy,bud,sexual_act,editorial|v1
+fuck faces,fuc,sexual_act,surge_en|v1
+fucker off,fuc,sexual_act,surge_en|v1
+fuckheaded,H,sexual_act,surge_en|v1
+fucking me,fuc,sexual_act,surge_en|v1
+fucknuckle,fuc,sexual_act,surge_en|v1
+futhamucka,H,sexual_slang_or_context,surge_en|v1
+gay fucker,fuc,sexual_act,surge_en|v1
+get fucked,ED,sexual_act,surge_en|v1
+giant cock,cock,profanity_mixed,ldnoobw_en
+girly bits,TS,sexual_slang_or_context,surge_en|v1
+go to hell,H,insult,editorial_v2
+half naked,H,nudity_clothing,editorial|v1
+half-naked,H,nudity_clothing,editorial|v1
+harassment,H,insult,editorial_v2
+homo asses,H,sexual_slang_or_context,surge_en|v1
+homoerotic,H,profanity_mixed,ldnoobw_en
+homophobia,H,hate_discrimination,editorial_v2
+homophobic,H,hate_discrimination,editorial_v2
+jizz eater,jizz,anatomy,surge_en|v1
+jizzfucker,fuc,anatomy,surge_en|v1
+knob eater,knob,sexual_slang_or_context,surge_en|v1
+knobjokeys,bj,sexual_slang_or_context,surge_en|v1
+Mao Zedong,ED,politics_china,editorial_v2
+meat-sword,sword,sexual_slang_or_context,surge_en|v1
+mofucckers,fuc,sexual_slang_or_context,surge_en|v1
+mons pubis,pubis,sexual_slang_or_context,editorial|v1
+mothafcked,H,sexual_act,surge_en|v1
+mothafucka,H,sexual_act,surge_en|v1
+mothafucks,H,sexual_act,surge_en|v1
+mothafuckz,H,sexual_act,surge_en|v1
+mothercker,H,sexual_slang_or_context,surge_en|v1
+motherfcks,H,sexual_act,surge_en|v1
+motherfuck,H,sexual_act,surge_en|v1
+motherfvck,H,sexual_act,surge_en|v1
+mtherfuker,H,sexual_act,surge_en|v1
+muff diver,muff,profanity_mixed,ldnoobw_en
+muffdiving,muff,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+muhfucking,H,sexual_act,surge_en|v1
+muthafucka,H,sexual_act,surge_en|v1
+muthafukka,H,sexual_act,surge_en|v1
+naked body,ED,nudity_clothing,editorial|v1
+no panties,panties,nudity_clothing,editorial|v1
+nobjockies,bj,sexual_slang_or_context,surge_en|v1
+nude model,OD,nudity_clothing,editorial|v1
+nude photo,H,nudity_clothing,editorial|v1
+office sex,ice,sexual_act,editorial|v1
+p3nisfcker,fck,sexual_act,surge_en|v1
+paedophile,H,profanity_mixed,ldnoobw_en
+panty peek,panty,nudity_clothing,editorial|v1
+panty shot,H,nudity_clothing,editorial|v1
+peckerhead,H,anatomy,surge_en|v1
+pee fetish,H,fetish_bondage,editorial|v1
+penis ring,penis,anatomy,editorial|v1
+penisfcker,fck,anatomy,surge_en|v1
+pig fucker,fuc,sexual_act,surge_en|v1
+pigfuckers,fuc,sexual_act,surge_en|v1
+pigfucking,fuc,sexual_act,surge_en|v1
+polesmoker,SM,sexual_slang_or_context,surge_en|v1
+poop chute,H,profanity_mixed,ldnoobw_en
+porn actor,porn,adult_media,editorial|v1
+prick-face,prick,sexual_slang_or_context,surge_en|v1
+prick-head,H,sexual_slang_or_context,surge_en|v1
+prostitute,tit,anatomy,editorial|v1
+Protestant,protest,religion,editorial_v2
+pubic hair,H,anatomy,editorial|v1
+public sex,BL,sexual_act,editorial|v1
+pusslicker,puss,sexual_slang_or_context,surge_en|v1
+pussy lick,puss,anatomy,surge_en|v1
+pussy lips,puss,anatomy,editorial|v1
+restraints,TS,fetish_bondage,editorial|v1
+sandnigger,nigger,hate_discrimination,editorial_v2
+scumfucker,cum,sexual_act,surge_en|v1
+send nudes,nude,nudity_clothing,editorial|v1
+sensuality,sensual,sexual_expression,editorial|v1
+separatism,SM,politics_general,editorial_v2
+sex appeal,sex,sexual_act,editorial|v1
+sex kitten,sex,sexual_act,editorial|v1
+sex object,bj,sexual_act,editorial|v1
+sex worker,sex,adult_commerce,editorial|v1
+sexual act,sex,sexual_act,editorial|v1
+sexualized,ED,sexual_act,editorial|v1
+shitfucker,H,sexual_act|insult,surge_en|v1|space_v2
+shithapens,H,insult,space_v2
+shittydick,H,anatomy,surge_en|v1
+shittyfuck,H,sexual_act,surge_en|v1
+shower sex,H,sexual_act,editorial|v1
+strip club,strip,nudity_clothing|profanity_mixed,editorial|v1|ldnoobw_en
+striptease,strip,nudity_clothing,editorial|v1
+submission,sub,sexual_slang_or_context,editorial|v1
+submissive,sub,sexual_slang_or_context,editorial|v1
+tard asses,ass,sexual_slang_or_context,surge_en|v1
+thumbzilla,H,profanity_mixed,ldnoobw_en
+uncensored,ED,sexual_slang_or_context,editorial|v1
+Xi Jinping,Jinping,politics_china,editorial_v2
+zipperhead,H,hate_discrimination,editorial_v2
+セクシーな 10 代,セクシー,profanity_mixed,ldnoobw_ja
+セクシーランジェリー,セクシー,nudity_clothing,space_ja|v1
+69 position,69,sexual_act,editorial|v1
+adults only,TS,sexual_slang_or_context,editorial|v1
+amphetamine,H,drugs,editorial_v2
+anal pirate,anal,sexual_slang_or_context,surge_en|v1
+aphrodisiac,H,sexual_expression,editorial|v1
+arse-fucker,fuc,sexual_act,surge_en|v1
+ass licking,ass,sexual_slang_or_context,surge_en|v1
+ass muncher,H,sexual_slang_or_context,surge_en|v1
+ass-fuckers,ass,sexual_act,surge_en|v1
+auto erotic,ero,profanity_mixed,ldnoobw_en
+autofellate,fellate,sexual_act,editorial|v1
+beaver lips,AV,profanity_mixed,ldnoobw_en
+big breasts,TS,profanity_mixed,ldnoobw_en
+blasphemous,H,religion,editorial_v2
+blue waffle,BL,profanity_mixed,ldnoobw_en
+breast milk,breast,anatomy,editorial|v1
+breast slip,breast,anatomy,editorial|v1
+breasticles,breast,anatomy,surge_en|v1
+bullet vibe,vibe,profanity_mixed,ldnoobw_en
+butt cheeks,H,sexual_slang_or_context,editorial|v1
+butt fucker,fuc,sexual_act,surge_en|v1
+butt-fucker,fuc,sexual_act,surge_en|v1
+buttfuckers,fuc,sexual_act,surge_en|v1
+c0cksuckers,c0ck,sexual_act,surge_en|v1
+cawkmuncher,H,sexual_slang_or_context,surge_en|v1
+clitlickers,clit,sexual_slang_or_context,surge_en|v1
+clusterfuck,fuc,sexual_act|profanity_mixed,surge_en|v1|ldnoobw_en
+cock jockey,cock,anatomy,surge_en|v1
+cock licker,cock,anatomy,surge_en|v1
+cock smoker,SM,anatomy,surge_en|v1
+cock sucker,cock,anatomy,surge_en|space_en|v1
+cock-sucker,cock,anatomy,surge_en|v1
+cockgobbler,BL,anatomy,surge_en|v1
+cockmuncher,H,anatomy,surge_en|v1
+cocksuccers,cock,anatomy,surge_en|v1
+cocksuckers,cock,anatomy,surge_en|v1
+cocksucking,cock,anatomy,surge_en|v1
+colonialism,SM,politics_general,editorial_v2
+coprophilia,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+coronavirus,AV,politics_general,editorial_v2
+crazy mofos,mofo,sexual_slang_or_context,surge_en|v1
+cunt licker,cunt,anatomy,surge_en|v1
+cuntbollock,cunt,anatomy,surge_en|v1
+cuntlickers,NTL,anatomy,surge_en|v1
+deep throat,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+deep-throat,H,sexual_slang_or_context,editorial|v1
+dick breath,H,anatomy,surge_en|v1
+dick fucker,fuc,anatomy,surge_en|v1
+dick licker,dick,anatomy,surge_en|v1
+dick milker,dick,anatomy,surge_en|v1
+dick smoker,SM,anatomy,surge_en|v1
+dick sucker,dick,anatomy,surge_en|v1
+dickjockies,dick,anatomy,surge_en|v1
+dickmuncher,H,anatomy,surge_en|v1
+dickslapper,dick,anatomy,surge_en|v1
+dictatorial,dictator,politics_general,editorial_v2
+dingleberry,GL,profanity_mixed,ldnoobw_en
+dog fucking,fuc,sexual_act,surge_en|v1
+double dick,BL,anatomy,surge_en|v1
+double dong,BL,profanity_mixed,ldnoobw_en
+double-dong,BL,sexual_slang_or_context,surge_en|v1
+dry humping,H,sexual_act,editorial|v1
+dumb fucker,fuc,sexual_act,surge_en|v1
+ecchi anime,H,adult_media,editorial|v1
+ecchi manga,H,adult_media,editorial|v1
+erect penis,penis,anatomy,editorial|v1
+fan service,ice,sexual_slang_or_context,editorial|v1
+fart-fucker,fuc,sexual_act,surge_en|v1
+finger fuck,fuc,sexual_act,surge_en|v1
+foot fetish,H,profanity_mixed,ldnoobw_en
+fuck goblin,BL,sexual_act,surge_en|v1
+fuckmachine,H,sexual_act,surge_en|v1
+fudgefucker,fuc,sexual_act,surge_en|v1
+girl on top,girl on,profanity_mixed,ldnoobw_en
+glans penis,GL,anatomy,editorial|v1
+harry palms,H,sexual_slang_or_context,surge_en|v1
+heil hitler,H,insult,space_v2
+how to kill,H,profanity_mixed,ldnoobw_en
+imperialism,SM,politics_general,editorial_v2
+jerking off,jerk,sexual_slang_or_context,surge_en|v1
+jizz licker,jizz,anatomy,surge_en|v1
+June Fourth,H,politics_china,editorial_v2
+kill myself,kill,self_harm,editorial_v2
+kiss my ass,ass,sexual_slang_or_context,surge_en|v1
+knob jockey,knob,sexual_slang_or_context,surge_en|v1
+knobgobbler,BL,sexual_slang_or_context,surge_en|v1
+knobjockies,bj,sexual_slang_or_context,surge_en|v1
+labial lips,labia,anatomy,editorial|v1
+m0thafucked,H,sexual_act,surge_en|v1
+m0thafucker,H,sexual_act,surge_en|v1
+morning sex,sex,sexual_act,editorial|v1
+motha fucka,H,sexual_act,surge_en|v1
+mothaf@cked,H,sexual_act,surge_en|v1
+mothafcking,H,sexual_act,surge_en|v1
+mothafucced,H,sexual_act,surge_en|v1
+mothafuccer,H,sexual_act,surge_en|v1
+mothafuckas,H,sexual_act,surge_en|v1
+mothafuckaz,H,sexual_act,surge_en|v1
+mothafucked,H,sexual_act,surge_en|v1
+mothafucker,H,sexual_act,surge_en|v1
+mothafuckin,H,sexual_act,surge_en|v1
+mothafvcked,H,sexual_act,surge_en|v1
+mother fuck,H,sexual_act,surge_en|v1
+motherf@kka,H,sexual_act,surge_en|v1
+motherfcked,H,sexual_act,surge_en|v1
+motherfckin,H,sexual_act,surge_en|v1
+motherfecka,H,sexual_act,surge_en|v1
+motherfucca,H,sexual_act,surge_en|v1
+motherfucks,H,sexual_act,surge_en|v1
+motherfukka,H,sexual_act,surge_en|v1
+muddafukkas,fuk,sexual_act,surge_en|v1
+muffdivings,muff,sexual_slang_or_context,surge_en|v1
+muffindivin,muff,sexual_slang_or_context,surge_en|v1
+mutha fucka,H,sexual_act,surge_en|v1
+muthafecker,H,sexual_act,surge_en|v1
+naked woman,ED,nudity_clothing,editorial|v1
+nationalism,SM,politics_general,editorial_v2
+necrophilia,H,sexual_slang_or_context,editorial|v1
+nimphomania,H,profanity_mixed,ldnoobw_en
+nipple slip,nip,anatomy,editorial|v1
+North Korea,H,politics_general,editorial_v2
+nsfw images,nsfw,profanity_mixed,ldnoobw_en
+nude selfie,nude,nudity_clothing,editorial|v1
+nymphomania,H,profanity_mixed,ldnoobw_en
+outdoor sex,sex,sexual_act,editorial|v1
+p3nisfvcker,fvck,sexual_act,surge_en|v1
+panty flash,H,nudity_clothing,editorial|v1
+peeping tom,peeping,sexual_slang_or_context,editorial|v1
+penisfuccer,fuc,anatomy,surge_en|v1
+penisfucker,fuc,anatomy,surge_en|v1
+penisfvcker,fvck,anatomy,surge_en|v1
+pole smoker,SM,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+pole sucker,suck,sexual_act,surge_en|v1
+porno flick,porn,adult_media,editorial|v1
+pornography,H,adult_media|profanity_mixed,editorial|v1|ldnoobw_en
+psychedelic,H,drugs,editorial_v2
+pussy juice,ice,anatomy,editorial|v1
+reacharound,H,sexual_act,surge_en|v1
+scat fetish,H,fetish_bondage,editorial|v1
+see-through,H,nudity_clothing,editorial|v1
+self injury,injury,self_harm,editorial_v2
+self-injury,injury,self_harm,editorial_v2
+shit fucker,H,sexual_act,surge_en|v1
+shit licker,H,sexual_slang_or_context,surge_en|v1
+shit-fucker,H,sexual_act,surge_en|v1
+shithappens,H,insult,space_v2
+shitspitter,H,insult,space_v2
+shitstabber,H,insult,space_v2
+shittydicks,H,anatomy,surge_en|v1
+stupidasses,ass,sexual_slang_or_context,surge_en|v1
+tight white,H,profanity_mixed,ldnoobw_en
+trafficking,fick,violence_crime,editorial_v2
+transphobia,H,hate_discrimination,editorial_v2
+transphobic,H,hate_discrimination,editorial_v2
+transsexual,sex,hate_discrimination,editorial_v2
+twat waffle,twat,anatomy,surge_en|v1
+vaginal sex,sex,anatomy,editorial|v1
+virtual sex,sex,sexual_act,editorial|v1
+wankbastard,wank,sexual_act,surge_en|v1
+want to die,die,self_harm,editorial_v2
+watersports,TS,sexual_slang_or_context,editorial|v1
+White Paper,H,politics_china,editorial_v2
+white power,H,profanity_mixed,ldnoobw_en
+アジアのかわいい女の子,女の子,profanity_mixed,ldnoobw_ja
+amateur porn,porn,adult_media,editorial|v1
+animal abuse,abuse,violence_crime,editorial_v2
+antisemitism,SM,politics_general,editorial_v2
+arse gobbler,BL,sexual_slang_or_context,surge_en|v1
+arse-bandits,TS,sexual_slang_or_context,surge_en|v1
+arse-fuckers,fuc,sexual_act,surge_en|v1
+arse-shagger,H,sexual_slang_or_context,surge_en|v1
+autofellatio,fellatio,sexual_act,editorial|v1
+ball sucking,suck,profanity_mixed,ldnoobw_en
+big knockers,knockers,profanity_mixed,ldnoobw_en
+birthday sex,H,sexual_act,editorial|v1
+blow-up doll,BL,sexual_slang_or_context,editorial|v1
+blumpkin boy,BL,sexual_slang_or_context,surge_en|v1
+bodystocking,OD,sexual_slang_or_context,editorial|v1
+bollockchops,H,sexual_slang_or_context,surge_en|v1
+butt-fuckers,fuc,sexual_act,surge_en|v1
+butthole boy,H,anatomy,surge_en|v1
+cawk muncher,H,sexual_slang_or_context,surge_en|v1
+clusterfucks,fuc,sexual_act,surge_en|v1
+cock knocker,cock,anatomy,surge_en|v1
+cock sucking,cock,anatomy,surge_en|v1
+cock-gobbler,BL,anatomy,surge_en|v1
+cock-suckers,cock,anatomy,surge_en|v1
+dendrophilia,H,profanity_mixed,ldnoobw_en
+dick nibbler,BL,anatomy,surge_en|v1
+dick-gobbler,BL,anatomy,surge_en|v1
+donkey punch,H,profanity_mixed,ldnoobw_en
+douche canoe,H,sexual_slang_or_context,surge_en|v1
+erotic anime,ero,sexual_expression,editorial|v1
+erotic manga,ero,sexual_expression,editorial|v1
+erotic novel,ero,sexual_expression,editorial|v1
+erotic video,ero,sexual_expression,editorial|v1
+f@cker bunny,f@ck,sexual_slang_or_context,surge_en|v1
+fingerbanged,ED,sexual_act,surge_en|v1
+fuck buttons,fuc,profanity_mixed,ldnoobw_en
+fucking hell,H,sexual_act,surge_en|v1
+fucking shit,H,sexual_act,surge_en|v1
+fuckshitface,H,sexual_act,surge_en|v1
+fuckshithead,H,sexual_act,surge_en|v1
+fudgepackers,fudgepacker,sexual_slang_or_context,surge_en|v1
+gash-stabber,H,sexual_slang_or_context,surge_en|v1
+gravure idol,AV,sexual_slang_or_context,editorial|v1
+hentai manga,H,adult_media,editorial|v1
+human rights,H,politics_general,editorial_v2
+islamophobia,H,hate_discrimination,editorial_v2
+islamophobic,H,hate_discrimination,editorial_v2
+knob gobbler,BL,sexual_slang_or_context,surge_en|v1
+knob-gobbler,BL,sexual_slang_or_context,surge_en|v1
+m0thafucking,H,sexual_act,surge_en|v1
+m0therfucker,H,sexual_act,surge_en|v1
+m0therfvcker,H,sexual_act,surge_en|v1
+m@asterbated,ED,sexual_slang_or_context,surge_en|v1
+m@derfuckers,fuc,sexual_act,surge_en|v1
+manslaughter,H,violence_crime,editorial_v2
+morning wood,OD,sexual_slang_or_context,editorial|v1
+motha fucker,H,sexual_act,surge_en|v1
+mothafuccing,H,sexual_act,surge_en|v1
+mothafuckeds,H,sexual_act,surge_en|v1
+mothafuckers,H,sexual_act,surge_en|v1
+mothafucking,H,sexual_act,surge_en|v1
+mothafuckins,H,sexual_act,surge_en|v1
+mother effer,H,sexual_slang_or_context,surge_en|v1
+mother fucka,H,sexual_act,surge_en|v1
+motherfcking,H,sexual_act,surge_en|v1
+motherfecker,H,sexual_act,surge_en|v1
+motherfuccas,H,sexual_act,surge_en|v1
+motherfucked,H,sexual_act,surge_en|v1
+motherfucker,H,sexual_act|profanity_mixed|insult,surge_en|v1|ldnoobw_en|space_v2
+motherfuckin,H,sexual_act,surge_en|v1
+motherfuckka,H,sexual_act,surge_en|v1
+motherfukker,H,sexual_act,surge_en|v1
+motherfvcked,H,sexual_act,surge_en|v1
+motherfvcker,H,sexual_act,surge_en|v1
+mothter fuck,H,sexual_act,surge_en|v1
+mudderfukker,fuk,sexual_act,surge_en|v1
+muffindiving,muff,sexual_slang_or_context,surge_en|v1
+mushroom tip,H,sexual_slang_or_context,surge_en|v1
+mutha fucker,H,sexual_act,surge_en|v1
+muthafeckers,H,sexual_act,surge_en|v1
+muthafuckers,H,sexual_act,surge_en|v1
+muthafuckker,H,sexual_act,surge_en|v1
+mutherfucker,H,sexual_act,surge_en|v1
+no underwear,underwear,nudity_clothing,editorial|v1
+nymphomaniac,H,sexual_slang_or_context,editorial|v1
+orgasm fluid,SM,sexual_act,editorial|v1
+p3nisfcukers,fcuk,sexual_act,surge_en|v1
+p3nisfvckers,fvck,sexual_act,surge_en|v1
+penisfuckers,fuc,anatomy,surge_en|v1
+penisfvckers,fvck,anatomy,surge_en|v1
+peter puffer,peter,sexual_slang_or_context,surge_en|v1
+porn actress,porn,adult_media,editorial|v1
+pornographic,H,adult_media,editorial|v1
+prostitution,tit,anatomy,editorial|v1
+pull the pud,H,sexual_slang_or_context,surge_en|v1
+pussy fucker,fuc,anatomy,surge_en|v1
+pussy licker,puss,anatomy,surge_en|v1
+pussylickers,puss,anatomy,surge_en|v1
+pussywhipped,H,anatomy,surge_en|v1
+raging boner,boner,profanity_mixed,ldnoobw_en
+rope bondage,bondage,fetish_bondage,editorial|v1
+salad tosser,tosser,sexual_slang_or_context,surge_en|v1
+sex position,sex,sexual_act,editorial|v1
+sext message,sex,sexual_act,editorial|v1
+sexting chat,H,sexual_act,editorial|v1
+sexual abuse,sex,sexual_violence,editorial|v1
+shaved pussy,H,profanity_mixed,ldnoobw_en
+shiesterfuck,H,sexual_act,surge_en|v1
+shitfacefuck,H,sexual_act,surge_en|v1
+shitstabbers,H,insult,space_v2
+spooning sex,sex,sexual_act,editorial|v1
+stump chewer,H,sexual_slang_or_context,surge_en|v1
+suck my cock,cock,anatomy,surge_en|v1
+suck my dick,dick,anatomy,surge_en|v1
+sultry women,sultry,profanity_mixed,ldnoobw_en
+swine fucker,fuc,sexual_act,surge_en|v1
+tainted love,ED,profanity_mixed,ldnoobw_en
+tentacle sex,sex,sexual_act,editorial|v1
+urethra play,H,profanity_mixed,ldnoobw_en
+vorarephilia,H,profanity_mixed,ldnoobw_en
+webcam model,OD,sexual_slang_or_context,editorial|v1
+woman on top,man on top,sexual_slang_or_context,editorial|v1
+adult website,BS,adult_media,editorial|v1
+anilinguistic,anilinguist,sexual_act,editorial|v1
+animal fucker,fuc,sexual_act,surge_en|v1
+authoritarian,H,politics_general,editorial_v2
+auto-fellatio,fellatio,sexual_act,editorial|v1
+beat the meat,H,sexual_slang_or_context,surge_en|editorial|v1
+bedroom scene,ED,sexual_slang_or_context,editorial|v1
+birth control,H,sexual_slang_or_context,editorial|v1
+blonde action,BL,profanity_mixed,ldnoobw_en
+body stocking,OD,sexual_slang_or_context,editorial|v1
+bollocktician,bollock,sexual_slang_or_context,surge_en|v1
+brown showers,H,profanity_mixed,ldnoobw_en
+butt-munchers,H,sexual_slang_or_context,surge_en|v1
+carpetmuncher,H,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+chastity belt,H,anatomy,editorial|v1
+chastity cage,H,anatomy,editorial|v1
+clitoral hood,H,anatomy,editorial|v1
+clusterfucked,ED,sexual_act,surge_en|v1
+clusterfucker,fuc,sexual_act,surge_en|v1
+cobb knobbler,BL,sexual_slang_or_context,surge_en|v1
+cock droplets,TS,anatomy,surge_en|v1
+contraception,NTR,sexual_slang_or_context,editorial|v1
+contraceptive,NTR,sexual_slang_or_context,editorial|v1
+cooterpuffing,coot,sexual_slang_or_context,surge_en|v1
+dingleberries,GL,profanity_mixed,ldnoobw_en
+dirty sanchez,H,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+exhibitionism,H,sexual_slang_or_context,editorial|v1
+exhibitionist,H,sexual_slang_or_context,editorial|v1
+fothermuckers,H,sexual_slang_or_context,surge_en|v1
+fvckker bunny,fvck,sexual_act,surge_en|v1
+golden shower,H,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+hallucination,H,drugs,editorial_v2
+hardcore porn,H,adult_media,editorial|v1
+heavy petting,H,sexual_slang_or_context,editorial|v1
+hidden camera,H,sexual_slang_or_context,editorial|v1
+horse's asses,H,sexual_slang_or_context,surge_en|v1
+how to murder,H,profanity_mixed,ldnoobw_en
+japanese porn,jap,adult_media,editorial|v1
+kill yourself,kill,insult|self_harm,editorial_v2
+kitty puncher,H,sexual_slang_or_context,surge_en|v1
+m0therfuckeds,H,sexual_act,surge_en|v1
+m0therfucking,H,sexual_act,surge_en|v1
+motha fuckers,H,sexual_act,surge_en|v1
+mothafuckings,H,sexual_act,surge_en|v1
+mother fucker,H,sexual_act,surge_en|v1
+motherfacking,H,sexual_act,surge_en|v1
+motherfckshit,H,sexual_act,surge_en|v1
+motherfuccers,H,sexual_act,surge_en|v1
+motherfuckeds,H,sexual_act,surge_en|v1
+motherfuckers,H,sexual_act,surge_en|v1
+motherfucking,H,sexual_act|insult,surge_en|v1|space_v2
+motherfuckins,H,sexual_act,surge_en|v1
+motherfuckkas,H,sexual_act,surge_en|v1
+motherfvckeds,H,sexual_act,surge_en|v1
+motherfvckers,H,sexual_act,surge_en|v1
+motherfvcking,H,sexual_act,surge_en|v1
+motherfxcking,H,sexual_act,surge_en|v1
+muthafuckings,H,sexual_act,surge_en|v1
+muthafuckkers,H,sexual_act,surge_en|v1
+mutherfuckers,H,sexual_act,surge_en|v1
+nakadashi sex,H,sexual_act,editorial|v1
+nonconsensual,sensual,sexual_violence,editorial|v1
+orgasm denial,SM,fetish_bondage,editorial|v1
+piece of shit,H,profanity_mixed,ldnoobw_en
+prick-gobbler,BL,sexual_slang_or_context,surge_en|v1
+private parts,TS,sexual_slang_or_context,editorial|v1
+pussy licking,puss,anatomy,surge_en|v1
+sadomasochism,H,fetish_bondage,editorial|v1
+schizophrenia,H,hate_discrimination,editorial_v2
+serial killer,kill,violence_crime,editorial_v2
+sexploitation,sex,sexual_act,editorial|v1
+sexual climax,sex,sexual_act,editorial|v1
+sexual fluids,sex,sexual_act,editorial|v1
+sexy lingerie,sex,nudity_clothing,editorial|v1
+shaved beaver,H,profanity_mixed,ldnoobw_en
+shiesterfucks,H,sexual_act,surge_en|v1
+shit-stuffers,H,sexual_slang_or_context,surge_en|v1
+shitassfucker,H,sexual_act,surge_en|v1
+shitforbrains,H,insult,space_v2
+shitoutofluck,H,insult,space_v2
+shitterfucker,H,sexual_act,surge_en|v1
+shitty mofoes,H,sexual_slang_or_context,surge_en|v1
+snatch licker,H,sexual_slang_or_context,surge_en|v1
+splooge moose,splooge,profanity_mixed,ldnoobw_en
+stupid fucker,fuc,sexual_act,surge_en|v1
+suicide girls,suicide,profanity_mixed,ldnoobw_en
+tentacle porn,porn,adult_media,editorial|v1
+tentacle rape,rape,sexual_violence,editorial|v1
+tongue fucker,fuc,sexual_act,surge_en|v1
+urethral play,H,sexual_slang_or_context,editorial|v1
+wand vibrator,bra,sexual_slang_or_context,editorial|v1
+wang wrangler,GL,sexual_slang_or_context,surge_en|v1
+willy-whacker,H,sexual_slang_or_context,surge_en|v1
+wrist cutting,cutting,self_harm,editorial_v2
+acrotomophilia,H,profanity_mixed,ldnoobw_en
+asshole fucker,H,anatomy,surge_en|v1
+assisted dying,ED,self_harm,editorial_v2
+beaver cleaver,AV,profanity_mixed,ldnoobw_en
+blow your load,BL,profanity_mixed,ldnoobw_en
+carpet muncher,H,sexual_slang_or_context|profanity_mixed,surge_en|v1|ldnoobw_en
+carpetmunching,H,sexual_slang_or_context,surge_en|v1
+clusterfucking,fuc,sexual_act,surge_en|v1
+crotch fiddler,H,anatomy,surge_en|v1
+deep throating,H,sexual_slang_or_context,editorial|v1
+dog's bollocks,bollock,sexual_slang_or_context,surge_en|v1
+domestic abuse,dom,violence_crime,editorial_v2
+double dicking,BL,anatomy,surge_en|v1
+dumbass fucker,ass,sexual_act,surge_en|v1
+dumbass mofoes,ass,sexual_slang_or_context,surge_en|v1
+erogenous zone,ero,adult_media,editorial|v1
+erotic fiction,ero,sexual_expression,editorial|v1
+facial cumshot,H,anatomy,editorial|v1
+finger banging,finger,sexual_slang_or_context,editorial|v1
+finger fucking,fuc,sexual_act,editorial|v1
+male squirting,squirt,profanity_mixed,ldnoobw_en
+mothafuckasses,H,sexual_act,surge_en|v1
+mothafuckazzes,H,sexual_act,surge_en|v1
+mother fuckers,H,sexual_act,surge_en|v1
+mother fucking,H,sexual_act,surge_en|v1
+motherfuckings,H,sexual_act,surge_en|v1
+motherfuckkers,H,sexual_act,surge_en|v1
+motherfukkings,H,sexual_act,surge_en|v1
+non-consensual,sensual,sexual_violence,editorial|v1
+orgasm control,SM,fetish_bondage,editorial|v1
+pleasure chest,H,profanity_mixed,ldnoobw_en
+sexual assault,ass,sexual_violence,editorial|v1
+sexual content,sex,sexual_act,editorial|v1
+sexual slavery,AV,fetish_bondage,editorial|v1
+sheer lingerie,H,nudity_clothing,editorial|v1
+shitfacefucker,H,sexual_act,surge_en|v1
+shitheadfucker,H,sexual_act,surge_en|v1
+shittyfuckface,H,sexual_act,surge_en|v1
+tongue fucking,fuc,sexual_act,surge_en|v1
+useless fucker,fuc,sexual_act,surge_en|v1
+yellow showers,H,profanity_mixed,ldnoobw_en
+autocunnilingus,cunnilingus,sexual_act,editorial|v1
+bash the bishop,H,sexual_slang_or_context,editorial|v1
+buff the muffin,H,sexual_slang_or_context,editorial|v1
+bullet vibrator,bra,sexual_slang_or_context,editorial|v1
+cheating spouse,H,sexual_slang_or_context,editorial|v1
+cooter shooting,H,sexual_slang_or_context,surge_en|v1
+cunnilinguistic,cunnilinguist,sexual_act,editorial|v1
+cuntasaurus rex,cunt,anatomy,surge_en|v1
+exposure fetish,H,fetish_bondage,editorial|v1
+fucking asshole,H,anatomy,surge_en|v1
+fucking bastard,fuc,sexual_act,surge_en|v1
+inflatable doll,BL,sexual_slang_or_context,editorial|v1
+mother fuck you,H,sexual_act,surge_en|v1
+one night stand,H,sexual_slang_or_context,editorial|v1
+one-night stand,H,sexual_slang_or_context,editorial|v1
+oral copulation,copulation,sexual_act,editorial|v1
+packerfudgehead,H,sexual_slang_or_context,surge_en|v1
+penetrative sex,sex,sexual_act,editorial|v1
+punk ass mofoes,ass,sexual_slang_or_context,surge_en|v1
+rabbit vibrator,bra,sexual_slang_or_context,editorial|v1
+reverse cowgirl,cowgirl,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+sadomasochistic,H,fetish_bondage,space_en|editorial|v1
+school shooting,H,violence_crime,editorial_v2
+sex trafficking,sex,sexual_violence,editorial|v1
+sexual activity,sex,sexual_act,editorial|v1
+sexual roleplay,sex,sexual_act,editorial|v1
+sexual violence,sex,sexual_act,editorial|v1
+shitassfuckface,H,sexual_act,surge_en|v1
+shytfeisterfuck,H,sexual_act,surge_en|v1
+totalitarianism,SM,politics_general,editorial_v2
+uncensored porn,ED,adult_media,editorial|v1
+anal penetration,anal,sexual_act,editorial|v1
+authoritarianism,H,politics_general,editorial_v2
+collar and leash,H,fetish_bondage,editorial|v1
+cowgirl position,cowgirl,sexual_act,editorial|v1
+female squirting,squirt,profanity_mixed,ldnoobw_en
+flog the dolphin,H,sexual_slang_or_context,editorial|v1
+fuck your mother,H,sexual_act,surge_en|v1
+go fuck yourself,fuc,sexual_act,surge_en|v1
+male ejaculation,ejaculation,sexual_act,editorial|v1
+multiple orgasms,SM,sexual_act,editorial|v1
+nude photography,H,nudity_clothing,editorial|v1
+oral intercourse,intercourse,sexual_act,editorial|v1
+prostate massage,ass,sexual_slang_or_context,editorial|v1
+shiesterfuckface,H,sexual_act,surge_en|v1
+shiesterfuckhead,H,sexual_act,surge_en|v1
+shitheadfuckface,H,sexual_act,surge_en|v1
+spank the monkey,H,fetish_bondage,editorial|v1
+Tiananmen Square,Tiananmen,politics_china,editorial_v2
+choke the chicken,H,sexual_slang_or_context,surge_en|v1
+erotic literature,ero,sexual_expression,editorial|v1
+first person porn,porn,adult_media,editorial|v1
+leather restraint,H,profanity_mixed,ldnoobw_en
+mosaic censorship,H,sexual_slang_or_context,editorial|v1
+motherfuckingshit,H,sexual_act,surge_en|v1
+open relationship,H,sexual_slang_or_context,editorial|v1
+packing fudgehead,H,sexual_slang_or_context,surge_en|v1
+piss off fuckhead,H,sexual_act,surge_en|v1
+play with oneself,H,sexual_slang_or_context,editorial|v1
+sexual harassment,H,sexual_act,editorial|v1
+sexually explicit,sex,sexual_act,editorial|v1
+tickle the pickle,H,sexual_slang_or_context,surge_en|editorial|v1
+wrinkled starfish,H,profanity_mixed,ldnoobw_en
+alabama hot pocket,H,profanity_mixed,ldnoobw_en
+chocolate rosebuds,H,profanity_mixed,ldnoobw_en
+double penetration,BL,sexual_act|profanity_mixed,editorial|v1|ldnoobw_en
+erotic photography,H,sexual_expression,editorial|v1
+facial ejaculation,facial,sexual_act,editorial|v1
+female ejaculation,ejaculation,sexual_act,editorial|v1
+fudgepackershitter,H,sexual_slang_or_context,surge_en|v1
+genital censorship,H,anatomy,editorial|v1
+packingfudgefucker,fuc,sexual_act,surge_en|v1
+personal lubricant,lubricant,sexual_slang_or_context,editorial|v1
+pixelated genitals,ED,anatomy,editorial|v1
+pornographic image,H,adult_media,editorial|v1
+pornographic video,H,adult_media,editorial|v1
+red light district,H,sexual_slang_or_context,editorial|v1
+sexploitation film,sex,sexual_act,editorial|v1
+sexual intercourse,sex,sexual_act,editorial|v1
+sexual penetration,sex,sexual_act,editorial|v1
+tickle the sausage,H,sexual_slang_or_context,editorial|v1
+triple penetration,penetration,sexual_act,editorial|v1
+butt-fucking-bandit,fuc,sexual_act,surge_en|v1
+fellatio aficionado,fellatio,sexual_act,surge_en|v1
+fudgepacking fucker,fuc,sexual_act,surge_en|v1
+full frontal nudity,nudity,nudity_clothing,editorial|v1
+jerkoff jerking off,jerk,sexual_act,surge_en|v1
+missionary position,missionary,sexual_slang_or_context|profanity_mixed,editorial|v1|ldnoobw_en
+mutual masturbation,masturbation,sexual_act,editorial|v1
+packingfudgefucking,fuc,sexual_act,surge_en|v1
+packsomefudgefucker,fuc,sexual_act,surge_en|v1
+sexual exploitation,sex,sexual_act,editorial|v1
+sexually suggestive,sex,sexual_act,editorial|v1
+upskirt photography,H,nudity_clothing,editorial|v1
+vaginal penetration,vag,anatomy,editorial|v1
+breastfeeding fetish,H,anatomy,editorial|v1
+dumbass mothafuckers,H,sexual_act,surge_en|v1
+goddamn mothafuckers,H,sexual_act,surge_en|v1
+japanese adult video,jap,adult_media,editorial|v1
+pornographic content,H,adult_media,editorial|v1
+prostate stimulation,prostate,sexual_slang_or_context,editorial|v1
+sexually provocative,sex,sexual_act,editorial|v1
+shitfuckmotherfucker,H,sexual_act,surge_en|v1
+wardrobe malfunction,rob,nudity_clothing,editorial|v1
+friends with benefits,H,sexual_slang_or_context,editorial|v1
+premature ejaculation,ejaculation,sexual_act,editorial|v1
+transparent underwear,underwear,nudity_clothing,editorial|v1
+dumbass son-of-a-bitch,H,sexual_slang_or_context,surge_en|v1
+blonde on blonde action,BL,profanity_mixed,ldnoobw_en
+emergency contraception,NTR,sexual_slang_or_context,editorial|v1
+leather straight jacket,H,profanity_mixed,ldnoobw_en
+cocksucking mothafuckers,H,anatomy,surge_en|v1
+reverse cowgirl position,cowgirl,sexual_act,editorial|v1
+rosy palm and her 5 sisters,H,profanity_mixed,ldnoobw_en

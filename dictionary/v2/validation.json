@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "source_coverage": 4819,
+  "no_redundant_substrings": true,
+  "csv_rows": 2583,
+  "examples": [
+    "トリミング → リミング",
+    "自由研究 → 自由",
+    "ピエロ → エロ",
+    "エロ漫画・エロ動画・エロアプリ → エロ",
+    "ＰＯＴＡＴＯ → pot"
+  ]
+}

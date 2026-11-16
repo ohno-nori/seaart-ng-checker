@@ -13,13 +13,15 @@ try {
     const errors=[]; page.on('pageerror',e=>errors.push(e.message));
     const requests=[]; page.on('request',r=>requests.push({url:r.url(),method:r.method()}));
     await page.goto('http://127.0.0.1:4173');
-    await page.waitForFunction(()=>document.getElementById('dictionary-status').textContent.includes('2,363'));
+    await page.waitForFunction(()=>document.getElementById('dictionary-status').textContent.includes('2,584'));
     const text='トリミングしたピエロの画像。\n人口と入口、口でするやつ。\n😀 SEX / ＳＥＸ';
     await page.locator('#input').fill(text);
     await page.waitForFunction(()=>document.querySelectorAll('mark').length>0);
     assert.equal(await page.locator('#preview').textContent(),text);
     assert.ok((await page.locator('#result-list').textContent()).includes('リミング'));
     assert.equal(await page.locator('#report').isVisible(),false);
+    assert.equal(await page.locator('mark.reported').count(),0);
+    assert.ok(await page.locator('mark.candidate').count()>0);
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
     await page.screenshot({path:fileURLToPath(new URL(`../test-results/${name}.png`,import.meta.url)),fullPage:true});
     await page.locator('#input').fill('<img src=x onerror="window.injected=true">口');
@@ -28,9 +30,9 @@ try {
     assert.equal(await page.evaluate(()=>window.injected),undefined);
     await page.locator('#clear').click();
     assert.equal(await page.locator('#input').inputValue(),'');
-    assert.equal(await page.locator('#summary').textContent(),'0種類 / 合計0件');
+    assert.equal(await page.locator('#summary').textContent(),'0種類 / terms · 合計0件 / matches');
     await page.locator('#input').fill('澄んだ空');
-    await page.waitForFunction(()=>document.getElementById('message').textContent==='辞書に一致する文字列はありません');
+    await page.waitForFunction(()=>document.getElementById('message').textContent==='辞書に一致する文字列はありません / No dictionary matches');
     await page.reload();
     assert.equal(await page.locator('#input').inputValue(),'');
     assert.ok(requests.every(r=>r.url.startsWith('http://127.0.0.1:4173/')&&r.method==='GET'));
@@ -39,6 +41,14 @@ try {
     await page.close();
   }
   const page=await browser.newPage();
+  await page.route('**/reported_terms.json',r=>r.fulfill({json:{terms:['着替え']}}));
+  await page.goto('http://127.0.0.1:4173');
+  await page.waitForFunction(()=>document.getElementById('dictionary-status').textContent.includes('2,584'));
+  await page.locator('#input').fill('着替え ピエロ');
+  await page.waitForSelector('mark.reported');
+  assert.equal(await page.locator('mark.reported').textContent(),'着替え');
+  assert.equal(await page.locator('mark.candidate').textContent(),'エロ');
+  console.log('PASS supplied reports produce red, other candidates remain yellow');
   await page.route('**/seaart_ng_dictionary_web.json',r=>r.fulfill({status:404,body:'missing'}));
   await page.goto('http://127.0.0.1:4173');
   await page.waitForFunction(()=>document.getElementById('message').textContent.includes('チェックできません'));

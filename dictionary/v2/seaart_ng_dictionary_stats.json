@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-16",
+  "total": 2583,
+  "v1_input_terms": 2363,
+  "unique_before_pruning": 4819,
+  "new_unique_candidates_before_pruning": 2465,
+  "pruned_as_covered": 2236,
+  "retained_new_terms": 1752,
+  "by_language": {
+    "en": 828,
+    "ja": 1197,
+    "zh": 558
+  },
+  "by_category": {
+    "adult_commerce": 20,
+    "adult_media": 16,
+    "anatomy": 61,
+    "drugs": 166,
+    "fetish_bondage": 23,
+    "hate_discrimination": 160,
+    "insult": 251,
+    "nudity_clothing": 25,
+    "politics_china": 232,
+    "politics_general": 178,
+    "profanity_mixed": 333,
+    "religion": 115,
+    "self_harm": 57,
+    "sexual_act": 69,
+    "sexual_expression": 19,
+    "sexual_slang_or_context": 590,
+    "sexual_violence": 8,
+    "violence_crime": 260
+  },
+  "category_labels": {
+    "politics_china": "中国政治・歴史",
+    "politics_general": "一般政治・社会",
+    "insult": "侮辱・暴言",
+    "hate_discrimination": "差別・属性関連候補",
+    "religion": "宗教・信仰",
+    "violence_crime": "暴力・犯罪・賭博",
+    "self_harm": "自傷関連",
+    "drugs": "薬物・嗜好品",
+    "profanity_mixed": "公開罵倒語集（混合）"
+  },
+  "coverage_verified": true,
+  "mode": "NFKC + casefold + substring; no context/word-boundary/compound conditions"
+}
