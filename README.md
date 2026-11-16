@@ -22,7 +22,7 @@ npm start
 4. Branchを `main`、フォルダーを `/ (root)` にして保存します。
 5. デプロイ完了後に表示される `https://<ユーザー名>.github.io/<リポジトリ名>/` を開きます。
 
-ビルド・バックエンド・APIキーは不要です。すべて相対パスなのでサブディレクトリでも動作します。公開先の作成やデプロイはこの納品には含まれません。
+ビルド・バックエンド・APIキーは不要です。すべて相対パスなのでサブディレクトリでも動作します。公開サイト：https://ohno-nori.github.io/seaart-ng-checker/ 。リポジトリ：https://github.com/ohno-nori/seaart-ng-checker 。mainブランチのルートから配信します。
 
 ## Googleフォームの設定
 
@@ -110,3 +110,4 @@ dictionary/               添付辞書6ファイル・帰属情報
 scripts/serve.mjs         ローカル確認サーバー
 tests/                    エンジン・ブラウザ自動テスト
 ```
+
