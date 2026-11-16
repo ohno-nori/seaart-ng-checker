@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="投稿できない文章から、辞書に一致する文字列を探す非公式ツール。入力文は送信・保存されません。">
+  <title>SeaArt NG Checker</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <main>
+    <header><p class="eyebrow">TEXT CHECK TOOL</p><h1>SeaArt NG Checker<span class="dot">.</span></h1><p class="subtitle">投稿できない文章から、怪しい文字列を探す</p></header>
+    <div class="workspace">
+      <section class="panel" aria-labelledby="input-heading">
+        <div class="panel-heading"><h2 id="input-heading"><span class="step">01</span><label for="input">文章を貼り付ける</label></h2><button id="clear" type="button">クリア</button></div>
+        <textarea id="input" placeholder="タイトル、概要文、アプリ説明文などを貼り付けてください。" spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off" aria-describedby="privacy"></textarea>
+        <div class="panel-footer"><span id="privacy">入力文は送信・保存されません</span><span id="char-count">0文字</span></div>
+      </section>
+      <section class="panel" aria-labelledby="preview-heading">
+        <div class="panel-heading"><h2 id="preview-heading"><span class="step">02</span>一致箇所を確認</h2><span class="legend"><i></i>辞書と一致</span></div>
+        <div id="preview" class="preview"></div>
+        <p id="message" class="panel-footer" role="status">辞書を読み込んでいます…</p>
+      </section>
+    </div>
+    <section class="results" aria-labelledby="results-heading"><div class="result-heading"><h2 id="results-heading">検出結果</h2><span id="summary" role="status">—</span></div><ul id="result-list"></ul><p id="empty">文章を入力すると、ここに一致した登録語が表示されます。</p></section>
+    <footer><div class="footer-links"><span id="dictionary-status">辞書読み込み中</span><a href="./dictionary/seaart_ng_dictionary_ATTRIBUTION.md">辞書の出典・ライセンス</a><a id="report" hidden target="_blank" rel="noopener noreferrer">新しいNGワードを報告する</a></div><p>本ツールは非公式の検閲ワード候補チェッカーです。検出された文字列が実際にSeaArtで規制されることを保証するものではありません。</p></footer>
+    <noscript>このツールを使用するにはJavaScriptを有効にしてください。</noscript>
+  </main>
+</body>
+</html>

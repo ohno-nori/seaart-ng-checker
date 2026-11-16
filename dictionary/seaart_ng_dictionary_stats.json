@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-16",
+  "total": 2363,
+  "by_language": {
+    "en": 1661,
+    "ja": 702
+  },
+  "by_category": {
+    "adult_commerce": 33,
+    "adult_media": 86,
+    "anatomy": 313,
+    "fetish_bondage": 74,
+    "nudity_clothing": 79,
+    "sexual_act": 584,
+    "sexual_expression": 67,
+    "sexual_slang_or_context": 1105,
+    "sexual_violence": 22
+  },
+  "by_false_positive_risk": {
+    "high": 688,
+    "low": 1178,
+    "medium": 497
+  },
+  "source_coverage": {
+    "editorial": 1317,
+    "space_en": 27,
+    "space_ja": 247,
+    "surge_en": 972,
+    "user_report": 6
+  },
+  "user_observed_words": [
+    "リミング",
+    "口",
+    "くち",
+    "添い寝",
+    "口でするやつ",
+    "口を使うやつ"
+  ],
+  "limitations": [
+    "単語掲載はSeaArtでのNG判定を保証しない",
+    "一部はスラング・表記違いの大量収録で件数が増えている",
+    "編集追加候補は個別の語源や辞書項目を確認していない",
+    "2文字以下・多義語は大量の偽陽性が出る可能性が高い"
+  ]
+}
